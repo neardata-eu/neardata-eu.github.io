@@ -1,0 +1,132 @@
+#
+# Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
+#
+# Configuration: Add to _config.yml
+# locale: "en-US"  [YOUR PREFERRED LOCALE]
+#
+# How to use:
+# {{ site.data.ui-text[site.locale].<var_name> | default: 'text' }}
+
+objectives:
+  text1: |
+    The goal of **NEARDATA** is to create an extreme data infrastructure mediating data flows between Object
+    Storage and Data Analytics platforms across the Compute Continuum. Our novel XtremeDataHub platform
+    is an intermediary data service that intercepts and optimises data flows (S3 API, stream APIs) with highperformance near-data connectors (Cloud/Edge). Finally, our unique Data Broker service will provide secure
+    data access and orchestration of dispersed data sources thanks to TEEs and federated learning architectures.
+    Our NEARDATA platform is a novel technology for data mining of large and dispersed unstructured data sets
+    that can be deployed in the Cloud and in the Edge (HPC, IoT Devices), that leverages advanced AI technologies
+    and offers a novel confidential cybersecurity layer for trusted data computation.
+  image: objectives.png
+  text2: |
+    The goals of NearData are the following:
+      - **Provide high-performance near-data processing for Extreme Data Types:** The first objective is to create a
+        novel intermediary data service (XtremeDataHub) providing serverless data connectors that optimize data management operations
+        (partitioning, filtering, transformation, aggregation) and interactive queries (search, discovery, matching,
+        multi-object queries) to efficiently present data to analytics platforms. Our data connectors facilitate a elas-
+        tic data-driven process-then-compute paradigm which significantly reduces data communication on the
+        data interconnect, ultimately resulting in higher overall data throughput.
+      - **Support real-time video streams but also event streams that must be ingested and processed very fast to
+        Object Storage:** The second objective is to seamlessly combine streaming and batch data processing for
+        analytics. To this end, we will develop stream data connectors deployed as stream operators offering very
+        fast stateful computations over low-latency event and video streams.
+      - The third objective is to **create a Data Broker service enabling trustworthy data sharing and confidential orchestration of data pipelines across the Compute Continuum**. We will provide secure data orchestration, transfer, processing and access thanks to Trusted Execution Environments (TEEs) and federated learning architectures.
+
+header:
+  title: NearData
+  text: Extreme Near-Data Processing Platform
+  button: Learn More
+  buttonlink: "#calltoaction"
+
+use_cases:
+  title: "Use Cases"
+  section: usecases
+  rows:
+    - columns:
+      - title: Genomics
+        subtitle: |
+          Creation of methods, fast storage, and communications infrastructures to
+          communicate distributed computing power with scalable storage
+          systems, allowing efficient distribution of datasets across the system.
+        favicon: fa-dna
+      - title: Metabolomics
+        subtitle: |
+          Expand the analysis of metabolomics raw data and boost external access and efficient re-use of open data. Creation of federated and Hybrid distributed architecture and ensuring data
+          privacy but also shared global computations.
+        favicon: fa-flask
+    - columns:
+      - title: Surgery
+        subtitle: |
+          Create generalised machine-learning models that can aid surgeons during surgery and allow video data to be analysed in real-time and with low latency.
+        favicon: fa-stethoscope
+
+deliverables:
+  title: Deliverables
+  deliverables:
+    - title: D1.1 Example Deliverable
+      subtitle: This is an example deliverable card description
+      file: \#
+
+
+news:
+  title: News
+
+partners:
+  title: "Partners"
+  text: "The NearData consortium is a well-balanced team of industrial and academic partners"
+  section: clients
+  max-height: 100px
+  horizontal-scrolling: "" #"yes/no"
+  list:
+    - name: Universitat Rovira i Virgili
+      url: https://www.urv.cat/es/
+      logo: urv.png
+    - name: Barcelona Supercomputing Center
+      url: https://www.bsc.es/
+      logo: bsc.png
+    - name: Technische Universität Dresden 
+      url: https://tu-dresden.de/
+      logo: tud.png
+    - name: Deutsches Krebsforschungszentrum Heidelberg
+      url: https://www.dkfz.de/de/index.html
+      logo: dkfz.png
+    - name: European Molecular Biology Laboratory
+      url: https://www.embl.org/
+      logo: embl.png
+    - name: EMC Information Systems International Unlimited Company
+      url: https://www.dell.com/en-us
+      logo: dell.png
+    - name: KIO Networks España SA
+      url: https://www.kionetworks.com/
+      logo: kio-nube.png
+    - name: Sano - Centrum Zindywidualizowanej Medycyny Obliczeniowej
+      url: https://sano.science/
+      logo: sano.jpg
+    - name: Scontain
+      url: https://scontain.com/
+      logo: scone.jpg
+    - name: Department of Health - United Kingdom
+      url: https://www.gov.uk/government/organisations/department-of-health-and-social-care
+      logo: doh.png
+
+about:
+  title: "About"
+
+footer:
+  contact:
+    title: "Contact us"
+    text: |
+      **Project Coordinator**
+
+      Prof. Pedro García López
+
+      pedro.garcia@urv.cat
+  social:
+    title: "Keep in touch"
+    links:
+      - url: https://twitter.com
+        icon: "fab fa-twitter"
+      - url: https://github.com/raviriley/agency-jekyll-theme
+        icon: "fab fa-github"
+  flag:
+    text: |
+      **NEARDATA** has received funding from the European Union's Horizon research and innovation programme under grant agreement No 101092644.
