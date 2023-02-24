@@ -62,9 +62,9 @@ use_cases:
 deliverables:
   title: Deliverables
   deliverables:
-    - title: D1.1 Example Deliverable
-      subtitle: This is an example deliverable card description.
-      file: \#
+    - title: D1.1 Project Website
+      subtitle: Public Project Website
+      file: ../assets/deliverables/NEARDATA_D1.1_Public.pdf
 
 
 news:
