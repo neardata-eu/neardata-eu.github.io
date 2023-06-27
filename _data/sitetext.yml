@@ -16,7 +16,7 @@ objectives:
     Our NEARDATA platform is a novel technology for data mining of large and dispersed unstructured data sets
     that can be deployed in the Cloud and in the Edge (HPC, IoT Devices), that leverages advanced AI technologies
     and offers a novel confidential cybersecurity layer for trusted data computation.
-  image: objectives.png
+  image: NEARDATA_Image.png
   text2: |
     The goals of NearData are the following:
       - **Provide high-performance near-data processing for Extreme Data Types:** The first objective is to create a
