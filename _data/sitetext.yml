@@ -125,6 +125,8 @@ footer:
     links:
       - url: https://twitter.com
         icon: "fab fa-twitter"
+      - url: https://linkedin.com
+        icon: "fab fa-linkedin-in"
       - url: https://github.com/raviriley/agency-jekyll-theme
         icon: "fab fa-github"
   flag:
