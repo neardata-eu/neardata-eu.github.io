@@ -62,9 +62,12 @@ use_cases:
 deliverables:
   title: Deliverables
   deliverables:
-    - title: D1.1 Project Website
+    - title: Deliverable 1.1
       subtitle: Public Project Website
       file: ../assets/deliverables/NEARDATA_D1.1_Public.pdf
+      - title: Deliverable 1.3
+      subtitle: Data Management Plan
+      file: ../assets/deliverables/NEARDATA_D1.3_Public.pdf
 
 
 news:
