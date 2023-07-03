@@ -61,7 +61,7 @@ use_cases:
 
 deliverables:
   title: Deliverables
-  deliverables:
+  list:
     - title: Deliverable 1.1
       subtitle: Public Project Website
       file: ../assets/deliverables/NEARDATA_D1.1_Public.pdf
