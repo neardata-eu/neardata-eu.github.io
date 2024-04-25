@@ -74,8 +74,17 @@ deliverables:
     - title: Deliverable 6.1
       subtitle: Communication plan
       file: ../assets/deliverables/NEARDATA_D6.1_Public.pdf
-    
 
+
+publications:
+  title: Publications
+  publications:
+    # - title: "GLIDER: A Scalable and Elastic Data Lake for the Cloud in Serverless Environments"  
+    #   url: "https://dl.acm.org/doi/10.1145/3590140.3629119"
+    # - title: "Publication 2"
+    #   url: "#"
+    # - title: "Publication 3"
+    #   url: "#"
 
 news:
   title: News
