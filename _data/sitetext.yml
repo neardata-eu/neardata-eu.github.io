@@ -79,13 +79,41 @@ deliverables:
 publications:
   title: Publications
   publications:
-    # - title: "GLIDER: A Scalable and Elastic Data Lake for the Cloud in Serverless Environments"  
-    #   url: "https://dl.acm.org/doi/10.1145/3590140.3629119"
-    # - title: "Publication 2"
-    #   url: "#"
-    # - title: "Publication 3"
-    #   url: "#"
-
+    - title: "On Data Processing through the Lenses of S3 Object Lambda"
+       url: "https://ieeexplore.ieee.org/abstract/document/10228890"
+    - title: "Challenges and Opportunities for RISC-V Architectures Towards Genomics-Based Workloads"
+       url: "https://link.springer.com/chapter/10.1007/978-3-031-40843-4_34"
+    - title: "A Seer knows best: Auto-tuned object storage shuffling for serverless analytics"
+       url: "https://doi.org/10.1016/j.jpdc.2023.104763"
+    - title: "MLLess: Achieving cost efficiency in serverless machine learning training"
+       url: "https://doi.org/10.1016/j.jpdc.2023.104764"
+    - title: "Exhaustive Variant Interaction Analysis using Multifactor Dimensionality Reduction"
+       url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10602162/"
+    - title: "Novel Approaches Toward Scalable Composable Workflows in Hyper-Heterogeneous Computing Environments"
+       url: "https://doi.org/10.1145/3624062.3626283"
+    - title: "SinClave: Hardware-assisted Singletons for TEEs"
+       url: "https://dl.acm.org/doi/abs/10.1145/3590140.3629107"
+    - title: "A Last-Level Defense for Application Integrity and Confidentiality"
+       url: "https://arxiv.org/abs/2311.06154"
+    - title: "Trustworthy confidential virtual machines for the masses"
+       url: "https://dl.acm.org/doi/10.1145/3590140.3629124"
+    - title: "GLIDER: A Scalable and Elastic Data Lake for the Cloud in Serverless Environments"  
+       url: "https://dl.acm.org/doi/10.1145/3590140.3629119"
+    - title: "Scaling a Variant Calling Genomics Pipeline with FaaS"
+       url: "https://dl.acm.org/doi/10.1145/3631295.3631403"
+    - title: "Practical Storage-Compute Elasticity for Stream Data Processing"
+       url: "https://dl.acm.org/doi/10.1145/3626562.3626828"
+    - title: "Pravega: A Tiered Storage System for Data Streams"
+       url: "https://dl.acm.org/doi/10.1145/3590140.3629113"
+    - title: "The Nanoservices Framework: Co-locating Microservices in the Cloud-Edge Continuum"
+       url: "https://ieeexplore-ieee-org.sabidi.urv.cat/stamp/stamp.jsp?tp=&arnumber=10355592"
+    - title: "METASPACE-ML: Metabolite annotation for imaging mass spectrometry using machine learning"
+       url: "https://www.biorxiv.org/content/10.1101/2023.05.29.542736v2"
+    - title: "One model to use them all: Training a segmentation model with complementary datasets"
+       url: "https://arxiv.org/pdf/2402.19340"
+    - title: "Exploiting inherent elasticity of serverless in algorithms with unbalanced and irregular workloads"
+       url: "https://doi.org/10.1016/j.jpdc.2024.104891"
+       
 news:
   title: News
 
