@@ -2,14 +2,14 @@
 <nav
   class="navbar navbar-expand-lg fixed-top"
   id="mainNav"
-  style="background-color: #F6F6C9"
+  style="background-color: #222e4b"
 >
   <div class="container">
     <a class="navbar-brand js-scroll-trigger" href="{{ site.baseurl }}/#">
       {%- if site.logo -%}
       <img
         height="{{ site.logo.height | default: 52 }}"
-        src="{{ site.logo.path }}"
+        src="{{ site.logo.path | relative_url }}"
       />
       {%- else -%} {{ site.title }} {%- endif -%}
     </a>

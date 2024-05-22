@@ -59,7 +59,7 @@ use_cases:
           Create generalised machine-learning models that can aid surgeons during surgery and allow video data to be analysed in real-time and with low latency.
         favicon: fa-stethoscope
 
-deliverables:
+results:
   title: Deliverables
   deliverables:
     - title: Deliverable 1.1
@@ -74,6 +74,9 @@ deliverables:
     - title: Deliverable 6.1
       subtitle: Communication plan
       file: ../assets/deliverables/NEARDATA_D6.1_Public.pdf
+  publications:
+    - title: To be included
+      link: "#"
 
 
 publications:
@@ -154,6 +157,28 @@ partners:
     - name: Department of Health - United Kingdom
       url: https://www.gov.uk/government/organisations/department-of-health-and-social-care
       logo: doh.png
+
+review:
+  events:
+    - time: "9:00"
+      subject: To be included
+      duration: 30 mins
+      lead: Universitat Rovira i Virgili
+  slides:
+    - title: To be included
+      link: "#"
+  videos:
+    - title: To be included
+      video: "#"
+      slides: "#"
+  summaries:
+    - shortname: To be included
+      partner: URV
+      link: "#"
+  artifacts:
+    - title: To be included
+      description: Definitive cloud-edge software stack
+      link: "#"
 
 about:
   title: "About"

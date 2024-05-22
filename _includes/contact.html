@@ -16,7 +16,7 @@
         <h3>{{ site.data.sitetext.footer.social.title }}</h3>
         <ul class="list-inline">
           <li class="pt-5">
-              <a href="https://zenodo.org/communities/neardata-eu/"><img src="assets\img\zenodo_s.png"></a>
+              <a href="https://zenodo.org/communities/neardata-eu/"><img src="{{'assets/img/zenodo_s.png'|relative_url}}"></a>
           </li>
           <li class="pt-5">
               <a href="http://twitter.com/Neardata2023" class="btn-social btn-outline"><i class="fab fa-fw fa-twitter fa-2x"></i></a>
@@ -33,7 +33,7 @@
       </ul>
       </div>
       <div class="col-md-4 text-center">
-        <img class="img-fluid d-block mx-auto flag" src="assets/img/europe.jpg" alt="EU Flag">
+        <img class="img-fluid d-block mx-auto flag" src="{{'assets/img/europe.jpg'|relative_url}}" alt="EU Flag">
         <p class="pt-1">{{ site.data.sitetext.footer.flag.text | markdownify }}</p>
       </div>
     </div>
