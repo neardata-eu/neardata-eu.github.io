@@ -71,9 +71,24 @@ results:
     - title: Deliverable 2.1
       subtitle: Initial Architecture Specifications
       file: ../assets/deliverables/NEARDATA_D2.1_Public.pdf
+    - title: Deliverable 2.2
+      subtitle: NEARDATA Architecture Specs and Early Prototypes
+      file: ../assets/deliverables/NEARDATA_D2.2_Public.pdf
+    - title: Deliverable 3.1
+      subtitle: XtremeHub first release and documentation
+      file: ../assets/deliverables/NEARDATA_D3.1_Public.pdf
+    - title: Deliverable 4.1
+      subtitle: Data Broker release and documentation
+      file: ../assets/deliverables/NEARDATA_D4.1_Public.pdf
+    - title: Deliverable 5.1
+      subtitle: First release of KPI benchmarks in all use cases and data connector libraries
+      file: ../assets/deliverables/NEARDATA_D5.1_Public.pdf
     - title: Deliverable 6.1
       subtitle: Communication plan
       file: ../assets/deliverables/NEARDATA_D6.1_Public.pdf
+    - title: Deliverable 6.2
+      subtitle: Communication and standardization report
+      file: ../assets/deliverables/NEARDATA_D6.2_Public.pdf
   publications:
     - title: To be included
       link: "#"
