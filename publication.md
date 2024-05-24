@@ -12,7 +12,7 @@ background: grey
 		<thead>
 			<tr>
 				<th>Name</th>
-				<th>Link (open access)</th>
+				<th>Link</th>
 			</tr>
 		</thead>
 		<tbody>
