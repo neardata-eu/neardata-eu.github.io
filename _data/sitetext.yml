@@ -90,8 +90,8 @@ results:
       subtitle: Communication and standardization report
       file: ../assets/deliverables/NEARDATA_D6.2_Public.pdf
   publications:
-    - title: To be included
-      link: "#"
+    - title: Glider Serverless Ephemeral Stateful Near-Data Computation
+      link: "https://dl.acm.org/doi/abs/10.1145/3590140.3629119?casa_token=Qk86e3TXBk4AAAAA:lhAkN7_UohlE33RIPMJvwXG0ncVCDsYA0gnW0WAzxuRRqxfgKslwwKVvP8XPQftJBObl0jnlwMBGYW0"
 
 
 publications:
