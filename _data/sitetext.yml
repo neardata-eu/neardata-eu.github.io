@@ -89,6 +89,7 @@ results:
     - title: Deliverable 6.2
       subtitle: Communication and standardization report
       file: ../assets/deliverables/NEARDATA_D6.2_Public.pdf
+  
   publications:
     - title: "On Data Processing through the Lenses of S3 Object Lambda"
       link: "https://ieeexplore.ieee.org/abstract/document/10228890"
@@ -208,9 +209,72 @@ partners:
 review:
   events:
     - time: "9:00"
-      subject: To be included
+      subject: Private meeting, reviewers and PO
       duration: 30 mins
-      lead: Universitat Rovira i Virgili
+      lead: PO
+    - time: "9:30"
+      subject: Welcome - Presentation of Participants
+      duration: 15 mins
+      lead: Coordinator
+    - time: "9:45"
+      subject: Overall Project Presentation
+      duration: 15 mins
+      lead: Coordinator
+    - time: "10:00"
+      subject: WP2 - Architecture
+      duration: 40 mins
+      lead: Coordinator, EMBL
+    - time: "10:40"
+      subject: Coffee break
+      duration: 10 mins
+      lead:
+    - time: "10:50"
+      subject: WP3 - Data plane
+      duration: 35 mins
+      lead: DELL
+    - time: "11:25"
+      subject: WP4 - Control plane
+      duration: 35 mins
+      lead: TUD
+    - time: "12:00"
+      subject: Lunch
+      duration: 60 mins
+      lead:
+    - time: "13:00"
+      subject: WP5 - Extreme Health Use Cases
+      duration: 40 mins
+      lead: BSC, SANO, UKHS, EMBL, NCT
+    - time: "14:40"
+      subject: WP6 - Promoting Impact
+      duration: 30 mins
+      lead: SCO
+    - time: "15:10"
+      subject: Final recap and summary
+      duration: 10 mins
+      lead: Coordinator
+    - time: "15:20"
+      subject: WP1 - Project Management
+      duration: 40 mins
+      lead: Coordinator
+    - time: "16:00"
+      subject: Final remarks
+      duration: 10 mins
+      lead: PO
+    - time: "16:10"
+      subject: Private meeting - reviewers and PO
+      duration: 30 mins
+      lead: PO
+    - time: "16:40"
+      subject: Oral feedback from reviewers and comment from project
+      duration: 20 mins
+      lead: PO
+    - time: "17:00"
+      subject: End of Review
+      duration: 
+      lead:
+    
+
+      
   slides:
     - title: To be included
       link: "#"

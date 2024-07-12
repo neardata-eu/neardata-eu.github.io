@@ -11,9 +11,9 @@ background: grey
 
 __Meeting Subject__: Neardata final review
 
-__Venue__: Webex meeting
+__Venue__: Online - Microsoft Teams
 
-__Date__: TBA
+__Date__: September 25, 2024
 
 __Chair__: Pedro García López (Coordinator)
 
@@ -78,7 +78,7 @@ __Chair__: Pedro García López (Coordinator)
 			<tr>
 				<td>{{ video.title }}</td>
 				<td><a href="{{ video.video }}"><i class="fas fa-external-link-alt"></i></a></td>
-				<td><a href="{{ video.slides }}"><i class="fas fa-external-link-alt"></i></a></td>
+				<td> {% if video.slides != "#" %} <a href="{{ video.slides }}"><i class="fas fa-external-link-alt"></i></a> {% endif %} </td>
 			</tr>
 			{% endfor %}
 		</tbody>
@@ -106,6 +106,7 @@ __Chair__: Pedro García López (Coordinator)
 	</table>
 </div>
 
+<!--
 #### Summary reports
 <div class="col-lg-12 text-center mt-4 mb-4">
 	<table class="table table-striped" style="text-align: left">
@@ -126,7 +127,7 @@ __Chair__: Pedro García López (Coordinator)
 			{% endfor %}
 		</tbody>
 	</table>
-</div>
+</div> -->
 
 #### Software results
 <div class="col-lg-12 text-center mt-4 mb-4">
