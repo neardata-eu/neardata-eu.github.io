@@ -276,12 +276,34 @@ review:
 
       
   slides:
-    - title: To be included
-      link: "#"
+    - title: WP1
+      link: "https://docs.google.com/presentation/d/1y3VDL9Q2-JgbhXn2u00wheIrLwhZeeOO/edit?usp=drive_link&ouid=107087671061201658185&rtpof=true&sd=true"
+    - title: WP2
+      link: "https://docs.google.com/presentation/d/1Nib4d0S8Ssan3abPsP558xgAN8pZ0Exy/edit?usp=drive_link&ouid=107087671061201658185&rtpof=true&sd=true"
+    - title: WP3
+      link: "https://docs.google.com/presentation/d/1SxzluBW4eeKT-lbSsTh1aPvV_nR_ukMN/edit?usp=drive_link&ouid=107087671061201658185&rtpof=true&sd=true"
+    - title: WP4
+      link: "https://docs.google.com/presentation/d/1K-vPBspiC57uqiZWw_oa7wcStv9SCEmY/edit?usp=drive_link&ouid=107087671061201658185&rtpof=true&sd=true"
+    - title: WP5
+      link: ""
+    - title: WP6
+      link: "https://drive.google.com/file/d/1wdEIxBMvMA4m20Lb0qSxb2vxY5PH-mWS/view?usp=drive_link"
+
+
   videos:
+    - title: NEARDATA Project - Extreme Near-Data Processing Platform
+      video: "https://youtu.be/K37aMlcqPHw?si=1lPj3-Zvd5_sNamo"
+      slides: "#"
     - title: To be included
       video: "#"
       slides: "#"
+    - title: To be included
+      video: "#"
+      slides: "#"
+    
+
+
+
   summaries:
     - shortname: To be included
       partner: URV

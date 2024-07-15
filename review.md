@@ -41,7 +41,7 @@ __Chair__: Pedro García López (Coordinator)
 	</table>
 </div>
 
-#### Review Slides
+#### Review Slides (on progress)
 <div class="col-lg-12 text-center mt-4 mb-4">
 	<table class="table table-striped" style="text-align: left">
 		<thead>
