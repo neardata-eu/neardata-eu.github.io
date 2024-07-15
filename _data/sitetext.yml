@@ -294,12 +294,16 @@ review:
     - title: NEARDATA Project - Extreme Near-Data Processing Platform
       video: "https://youtu.be/K37aMlcqPHw?si=1lPj3-Zvd5_sNamo"
       slides: "#"
-    - title: To be included
-      video: "#"
+    - title: Pravega streams flink coordinated autoscaling
+      video: "https://drive.google.com/file/d/1lKF3d_jwG9DKZPB-kY-fg3lWZXNE6kHX/view?usp=drive_link"
       slides: "#"
-    - title: To be included
-      video: "#"
+    - title: Secure Federeted Learning using SCONE
+      video: "https://drive.google.com/file/d/1pSn9_G8eN9CXTkK0dpQgsLTgwbqvL1I7/view?usp=drive_link"
       slides: "#"
+    - title: Pravega Cluster poc
+      video: "https://drive.google.com/file/d/1AeYw-YPSkVxz1YSUbSD62hVvlO6hXnfg/view?usp=drive_link"
+      slides: "#"
+
     
 
 
