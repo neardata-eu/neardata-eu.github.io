@@ -284,8 +284,10 @@ review:
       link: "https://docs.google.com/presentation/d/1SxzluBW4eeKT-lbSsTh1aPvV_nR_ukMN/edit?usp=drive_link&ouid=107087671061201658185&rtpof=true&sd=true"
     - title: WP4
       link: "https://docs.google.com/presentation/d/1K-vPBspiC57uqiZWw_oa7wcStv9SCEmY/edit?usp=drive_link&ouid=107087671061201658185&rtpof=true&sd=true"
-    - title: WP5
-      link: ""
+    - title: WP5 - Transcriptomics
+      link: "https://docs.google.com/presentation/d/1jUjncVOoA2xzW3F8mp1apmAe3JELrQWN/edit?usp=sharing&ouid=107087671061201658185&rtpof=true&sd=true"
+    - title: WP5 - Surgomics
+      link: "https://docs.google.com/presentation/d/1p4neeBV4eFUCQagWYQh3VErzjKnIljyR/edit?usp=sharing&ouid=107087671061201658185&rtpof=true&sd=true"
     - title: WP6
       link: "https://drive.google.com/file/d/1wdEIxBMvMA4m20Lb0qSxb2vxY5PH-mWS/view?usp=drive_link"
 
@@ -294,28 +296,82 @@ review:
     - title: NEARDATA Project - Extreme Near-Data Processing Platform
       video: "https://youtu.be/K37aMlcqPHw?si=1lPj3-Zvd5_sNamo"
       slides: "#"
+    - title: METASPACE demo
+      video: "https://oc.embl.de/index.php/s/S396YmnG8i4ErjM"
+      slides: "#"
     - title: Pravega streams flink coordinated autoscaling
       video: "https://drive.google.com/file/d/1lKF3d_jwG9DKZPB-kY-fg3lWZXNE6kHX/view?usp=drive_link"
       slides: "#"
     - title: Secure Federeted Learning using SCONE
       video: "https://drive.google.com/file/d/1pSn9_G8eN9CXTkK0dpQgsLTgwbqvL1I7/view?usp=drive_link"
       slides: "#"
-    - title: Pravega Cluster poc
+    - title: Pravega Cluster PoC
       video: "https://drive.google.com/file/d/1AeYw-YPSkVxz1YSUbSD62hVvlO6hXnfg/view?usp=drive_link"
       slides: "#"
-
+    - title: KeyCloak for NEARDATA
+      video: "https://drive.google.com/file/d/1u9oWrW1MX5yPEq520K1zMX3RbQoGcKwE/view?usp=sharing"
+      slides: "#"
+    - title: Lithops Vanilla execution
+      video: "https://drive.google.com/file/d/1X472TJOs1Oq75yg_YANc4u3dsThq1WCc/view?usp=sharing"
+      slides: "#"
     
-
-
 
   summaries:
     - shortname: To be included
       partner: URV
       link: "#"
+
+      
   artifacts:
-    - title: To be included
-      description: Definitive cloud-edge software stack
-      link: "#"
+    - title: Lithops
+      description: A multi-cloud framework for big data analytics and embarrassingly parallel jobs. 
+      link: "https://github.com/neardata-eu/lithops-hpc-singularity-and-k8s-backend"
+    - title: METASPACE
+      description: Cloud engine and platform for metabolite annotation for imaging mass spectrometry.
+      link: "https://github.com/metaspace2020/metaspace"
+    - title: Pravega
+      description: Pravega - Streaming as a new software defined storage primitive. 
+      link: "https://github.com/pravega/pravega"
+    - title: SCONE
+      description: All related to SCONE confidentiality support. 
+      link: "https://github.com/neardata-eu/scone-artifacts"
+    - title: Dataplug
+      description: Dataplug is a Python framework for efficiently accessing partitions of unstructured data stored in object storage for elastic workloads in the Cloud 
+      link: "https://github.com/neardata-eu/dataplug"
+    - title: Genomics use-case
+      description: Variant calling source code. 
+      link: "https://github.com/neardata-eu/serverless-genomics-variant-calling"
+    - title: Glider
+      description: Glider ephemeral storage system with in-storage computation. 
+      link: "https://github.com/neardata-eu/glider-store"
+    - title: METASPACE & Lithops
+      description: Lithops-based Serverless implementation of the METASPACE spatial metabolomics annotation pipeline. 
+      link: "https://github.com/metaspace2020/Lithops-METASPACE"
+    - title: Metabolomics use-case
+      description: ML models from Experiment 1. 
+      link: "https://github.com/metaspace2020/metaspace/tree/master/metaspace/scoring-models"
+    - title: Surgery use-case 1
+      description: DefinitiFederated Learning Source Code.ve 
+      link: "https://github.com/neardata-eu/nct_tud_fl_demo"
+    - title: Surgery use-case 2
+      description: Surgical Pravega GStreamer Demo. 
+      link: "https://github.com/neardata-eu/nct_dell_demo_pravega"
+    - title: Transcriptomic Atlas use-case 1
+      description: Federated Learning for Human Genome Variation Analysis. 
+      link: "https://github.com/SanoScience/neardata-fl-for-transcriptomics"
+    - title: Transcriptomic Atlas use-case 2
+      description: Transcriptomic Atlas Pipeline. 
+      link: "https://github.com/neardata-eu/transcriptomics-atlas-sano"
+    - title: Variant - Interactions use-case 1
+      description: MDR use-case source-code integrated with HPC Data Connector. 
+      link: "https://github.com/neardata-eu/MPI-genomics-MDR"
+    - title: Variant - Interactions use-case 2
+      description: MDR use-case with Apache Spark. 
+      link: "https://github.com/neardata-eu/spark-mdr"
+    - title: Video-streaming benchmarks
+      description: Video-streaming benchmarks with Gstreamer and Pravega connectors. 
+      link: "https://github.com/neardata-eu/video-streaming-benchmarks"
+  
 
 about:
   title: "About"
