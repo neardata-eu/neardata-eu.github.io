@@ -284,9 +284,9 @@ review:
       link: "https://docs.google.com/presentation/d/1SxzluBW4eeKT-lbSsTh1aPvV_nR_ukMN/edit?usp=drive_link&ouid=107087671061201658185&rtpof=true&sd=true"
     - title: WP4
       link: "https://docs.google.com/presentation/d/1K-vPBspiC57uqiZWw_oa7wcStv9SCEmY/edit?usp=drive_link&ouid=107087671061201658185&rtpof=true&sd=true"
-    - title: WP5 - Transcriptomics
+    - title: WP5 - Transcriptomics Use Case
       link: "https://docs.google.com/presentation/d/1jUjncVOoA2xzW3F8mp1apmAe3JELrQWN/edit?usp=sharing&ouid=107087671061201658185&rtpof=true&sd=true"
-    - title: WP5 - Surgomics
+    - title: WP5 - Surgomics Use Case
       link: "https://docs.google.com/presentation/d/1p4neeBV4eFUCQagWYQh3VErzjKnIljyR/edit?usp=sharing&ouid=107087671061201658185&rtpof=true&sd=true"
     - title: WP6
       link: "https://drive.google.com/file/d/1wdEIxBMvMA4m20Lb0qSxb2vxY5PH-mWS/view?usp=drive_link"
@@ -338,15 +338,18 @@ review:
     - title: Dataplug
       description: Dataplug is a Python framework for efficiently accessing partitions of unstructured data stored in object storage for elastic workloads in the Cloud 
       link: "https://github.com/neardata-eu/dataplug"
-    - title: Genomics use-case
-      description: Variant calling source code. 
-      link: "https://github.com/neardata-eu/serverless-genomics-variant-calling"
     - title: Glider
       description: Glider ephemeral storage system with in-storage computation. 
       link: "https://github.com/neardata-eu/glider-store"
     - title: METASPACE & Lithops
       description: Lithops-based Serverless implementation of the METASPACE spatial metabolomics annotation pipeline. 
       link: "https://github.com/metaspace2020/Lithops-METASPACE"
+    - title: Metabolomics Data Space
+      description: International Metabolomics Data Space
+      link: "https://dataplug.eu/"
+    - title: Genomics use-case
+      description: Variant calling source code. 
+      link: "https://github.com/neardata-eu/serverless-genomics-variant-calling"
     - title: Metabolomics use-case
       description: ML models from Experiment 1. 
       link: "https://github.com/metaspace2020/metaspace/tree/master/metaspace/scoring-models"
