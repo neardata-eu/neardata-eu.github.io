@@ -237,11 +237,19 @@ review:
       duration: 10 mins
       lead:
     - time: "10:50"
-      subject: WP3 - Data plane
+      subject: |-
+        WP3 - Data plane
+          - Pravega (5 mins)
+          - WP3 (15 mins)
+        Q&A (15 mins)
       duration: 35 mins
       lead: DELL
     - time: "11:25"
-      subject: WP4 - Control plane
+      subject: |-
+        WP4 - Control plane
+          - SCONE (5 mins)
+          - WP4 (15 mins)
+        Q&A (15 mins)
       duration: 35 mins
       lead: TUD
     - time: "12:00"
@@ -249,34 +257,48 @@ review:
       duration: 60 mins
       lead:
     - time: "13:00"
-      subject: WP5 - Extreme Health Use Cases
-      duration: 40 mins
+      subject: |-
+        WP5 - Extreme Health Use Cases
+          - Genomics (30 mins)
+          - Metabolomics (10 mins)
+          - Surgery (10 mins)
+        Q&A (15 mins)
+      duration: 65 mins
       lead: BSC, SANO, UKHS, EMBL, NCT
-    - time: "14:40"
-      subject: WP6 - Promoting Impact
-      duration: 30 mins
+    - time: "14:05"
+      subject: |-
+        WP6 - Promoting Impact
+          - Promotional video (5 mins)
+          - WP6 (15 mins)
+        Q&A (15 mins)
+      duration: 35 mins
       lead: SCO
-    - time: "15:10"
+    - time: "14:40"
       subject: Final recap and summary
       duration: 10 mins
       lead: Coordinator
-    - time: "15:20"
-      subject: WP1 - Project Management
-      duration: 40 mins
+    - time: "14:50"
+      subject: |-
+        WP1 - Project Management
+          - Use of resources, financial information
+          - Management procedures
+          - Amendment
+        Q&A (15 mins)
+      duration: 35 mins
       lead: Coordinator
-    - time: "16:00"
+    - time: "15:25"
       subject: Final remarks
       duration: 10 mins
       lead: PO
-    - time: "16:10"
+    - time: "15:35"
       subject: Private meeting - reviewers and PO
       duration: 30 mins
       lead: PO
-    - time: "16:40"
+    - time: "16:05"
       subject: Oral feedback from reviewers and comment from project
-      duration: 20 mins
+      duration: 25 mins
       lead: PO
-    - time: "17:00"
+    - time: "16:30"
       subject: End of Review
       duration: 
       lead:
