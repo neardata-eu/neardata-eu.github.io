@@ -19,7 +19,7 @@ __Chair__: Pedro García López (Coordinator)
 
 
 <div class="col-lg-12 text-center mt-4 mb-4">
-	<table class="table table-striped" style="text-align: left">
+	<table class="table table-striped" style="text-align: left white-space: pre;">
 		<thead>
 			<tr>
 				<th>Time</th>

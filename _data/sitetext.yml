@@ -217,7 +217,10 @@ review:
       duration: 15 mins
       lead: Coordinator
     - time: "9:45"
-      subject: Overall Project Presentation
+      subject:  |-
+        Overall Project Presentation
+          - Project Overview and Big Picture
+          - Achievements and project outcomes
       duration: 15 mins
       lead: Coordinator
     - time: "10:00"
@@ -374,6 +377,9 @@ review:
     - title: Video-streaming benchmarks
       description: Video-streaming benchmarks with Gstreamer and Pravega connectors. 
       link: "https://github.com/neardata-eu/video-streaming-benchmarks"
+    - title: Serverless benchmarks
+      description: Serverless benchmarks 
+      link: "https://github.com/iAmJK44/serverless_benchmarks"
   
 
 about:
