@@ -106,6 +106,27 @@ __Chair__: Pedro García López (Coordinator)
 	</table>
 </div>
 
+
+#### Publications
+<div class="col-lg-12 text-center mt-4 mb-4">
+	<table class="table table-striped" style="text-align: left">
+		<thead>
+			<tr>
+				<th>Name</th>
+				<th>Link</th>
+			</tr>
+		</thead>
+		<tbody>
+			{% for publication in site.data.sitetext.results.publications %}
+			<tr>
+				<td>{{ publication.title }}</td>
+				<td><a href="{{ publication.link }}"><i class="fas fa-external-link-alt"></i></a></td>
+			</tr>
+			{% endfor %}
+		</tbody>
+	</table>
+</div>
+
 <!--
 #### Summary reports
 <div class="col-lg-12 text-center mt-4 mb-4">
@@ -128,6 +149,8 @@ __Chair__: Pedro García López (Coordinator)
 		</tbody>
 	</table>
 </div> -->
+
+
 
 #### Software results
 <div class="col-lg-12 text-center mt-4 mb-4">

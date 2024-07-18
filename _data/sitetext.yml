@@ -225,7 +225,7 @@ review:
       lead: Coordinator
     - time: "10:00"
       subject:  |-
-        WP2 - Architecture
+        WP2 Architecture
           - Lithops & Data plug (5 mins)
           - Metaspace (5 mins)
           - WP2 (15 mins)
@@ -238,7 +238,7 @@ review:
       lead:
     - time: "10:50"
       subject: |-
-        WP3 - Data plane
+        WP3. Data plane
           - Pravega (5 mins)
           - WP3 (15 mins)
         Q&A (15 mins)
@@ -246,7 +246,7 @@ review:
       lead: DELL
     - time: "11:25"
       subject: |-
-        WP4 - Control plane
+        WP4. Control plane
           - SCONE (5 mins)
           - WP4 (15 mins)
         Q&A (15 mins)
@@ -258,7 +258,7 @@ review:
       lead:
     - time: "13:00"
       subject: |-
-        WP5 - Extreme Health Use Cases
+        WP5. Extreme Health Use Cases
           - Genomics (30 mins)
           - Metabolomics (10 mins)
           - Surgery (10 mins)
@@ -267,7 +267,7 @@ review:
       lead: BSC, SANO, UKHS, EMBL, NCT
     - time: "14:05"
       subject: |-
-        WP6 - Promoting Impact
+        WP6. Promoting Impact
           - Promotional video (5 mins)
           - WP6 (15 mins)
         Q&A (15 mins)
@@ -279,7 +279,7 @@ review:
       lead: Coordinator
     - time: "14:50"
       subject: |-
-        WP1 - Project Management
+        WP1. Project Management
           - Use of resources, financial information
           - Management procedures
           - Amendment
