@@ -217,14 +217,19 @@ review:
       duration: 15 mins
       lead: Coordinator
     - time: "9:45"
-      subject:  |-
+      subject: |-
         Overall Project Presentation
           - Project Overview and Big Picture
           - Achievements and project outcomes
       duration: 15 mins
       lead: Coordinator
     - time: "10:00"
-      subject: WP2 - Architecture
+      subject:  |-
+        WP2 - Architecture
+          - Lithops & Data plug (5 mins)
+          - Metaspace (5 mins)
+          - WP2 (15 mins)
+        Q&A (15 mins)
       duration: 40 mins
       lead: Coordinator, EMBL
     - time: "10:40"
