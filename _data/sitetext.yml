@@ -127,6 +127,12 @@ results:
       link: "https://doi.org/10.1016/j.jpdc.2024.104891"
     - title: "Serverless End Game: Disaggregation enabling Transparency"
       link: "https://dl.acm.org/doi/10.1145/3642977.3652094"
+    - title: "The many faces of locality in Big Data Analytics. Springer Handbook of Data Engineering (pending link)"
+      link: "#"
+    - title: "Dataplug: Cloud-aware Unstructured Data Management for Scientific Cloud Computing (pending link)"
+      link: "#"
+    - title: "CRISP: Confidentiality, Rollback, and Integrity Storage Protection for Confidential Stateful Computing (pending link)"
+      link: "#"  
 
 
 publications:
@@ -168,6 +174,13 @@ publications:
       url: "https://doi.org/10.1016/j.jpdc.2024.104891"
     - title: "Serverless End Game: Disaggregation enabling Transparency"
       url: "https://dl.acm.org/doi/10.1145/3642977.3652094"
+    - title: "The many faces of locality in Big Data Analytics. Springer Handbook of Data Engineering (pending link)"
+      url: "#"
+    - title: "Dataplug: Cloud-aware Unstructured Data Management for Scientific Cloud Computing (pending link)"
+      url: "#"
+    - title: "CRISP: Confidentiality, Rollback, and Integrity Storage Protection for Confidential Stateful Computing (pending link)"
+      url: "#"   
+
     
        
 news:
@@ -337,7 +350,7 @@ review:
       kpi: "#"
     - title: WP6
       link: "https://drive.google.com/file/d/1wdEIxBMvMA4m20Lb0qSxb2vxY5PH-mWS/view?usp=drive_link"
-      kpi: "#"
+      kpi: "assets/kpi/NEARDATA-WP6-KPI.pdf"
 
 
   videos:
