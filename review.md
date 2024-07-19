@@ -64,28 +64,6 @@ __Chair__: Pedro García López (Coordinator)
 </div>
 
 
-
-#### Videos
-<div class="col-lg-12 text-center mt-4 mb-4">
-	<table class="table table-striped" style="text-align: left">
-		<thead>
-			<tr>
-				<th>Title</th>
-				<th>Video</th>
-			</tr>
-		</thead>
-		<tbody>
-			{% for video in site.data.sitetext.review.videos %}
-			<tr>
-				<td>{{ video.title }}</td>
-				<td><a href="{{ video.video }}"><i class="fas fa-external-link-alt"></i></a></td>
-			</tr>
-			{% endfor %}
-		</tbody>
-	</table>
-</div>
-
-
 #### Deliverables (pending approval)
 <div class="col-lg-12 text-center mt-4 mb-4">
 	<table class="table table-striped" style="text-align: left">
@@ -168,6 +146,27 @@ __Chair__: Pedro García López (Coordinator)
 				<td>{{ artifact.title }}</td>
 				<td>{{ artifact.description }}</td>
 				<td><a href="{{ artifact.link }}"><i class="fas fa-external-link-alt"></i></a></td>
+			</tr>
+			{% endfor %}
+		</tbody>
+	</table>
+</div>
+
+
+#### Videos
+<div class="col-lg-12 text-center mt-4 mb-4">
+	<table class="table table-striped" style="text-align: left">
+		<thead>
+			<tr>
+				<th>Title</th>
+				<th>Video</th>
+			</tr>
+		</thead>
+		<tbody>
+			{% for video in site.data.sitetext.review.videos %}
+			<tr>
+				<td>{{ video.title }}</td>
+				<td><a href="{{ video.video }}"><i class="fas fa-external-link-alt"></i></a></td>
 			</tr>
 			{% endfor %}
 		</tbody>
