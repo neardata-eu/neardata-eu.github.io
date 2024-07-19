@@ -164,6 +164,9 @@ publications:
       url: "https://arxiv.org/pdf/2402.19340"
     - title: "Exploiting inherent elasticity of serverless in algorithms with unbalanced and irregular workloads"
       url: "https://doi.org/10.1016/j.jpdc.2024.104891"
+    - title: "Serverless End Game: Disaggregation enabling Transparency"
+      url: "https://dl.acm.org/doi/10.1145/3642977.3652094"
+    
        
 news:
   title: News
@@ -308,7 +311,7 @@ review:
   slides:
     - title: WP1
       link: "https://docs.google.com/presentation/d/1y3VDL9Q2-JgbhXn2u00wheIrLwhZeeOO/edit?usp=drive_link&ouid=107087671061201658185&rtpof=true&sd=true"
-      kpi: ""
+      kpi: "#"
     - title: WP2
       link: "https://docs.google.com/presentation/d/1Nib4d0S8Ssan3abPsP558xgAN8pZ0Exy/edit?usp=drive_link&ouid=107087671061201658185&rtpof=true&sd=true"
       kpi: "assets/kpi/NEARDATA-WP2-KPI.pdf"
@@ -323,10 +326,10 @@ review:
       kpi: "assets/kpi/NEARDATA-WP5-KPI.pdf"
     - title: WP5 - Surgomics Use Case
       link: "https://docs.google.com/presentation/d/1p4neeBV4eFUCQagWYQh3VErzjKnIljyR/edit?usp=sharing&ouid=107087671061201658185&rtpof=true&sd=true"
-      kpi: ""
+      kpi: "#"
     - title: WP6
       link: "https://drive.google.com/file/d/1wdEIxBMvMA4m20Lb0qSxb2vxY5PH-mWS/view?usp=drive_link"
-      kpi: ""
+      kpi: "#"
 
 
   videos:
@@ -384,12 +387,12 @@ review:
     - title: Metabolomics Data Space
       description: International Metabolomics Data Space
       link: "https://dataplug.eu/"
-    - title: Genomics use-case
-      description: Variant calling source code. 
-      link: "https://github.com/neardata-eu/serverless-genomics-variant-calling"
     - title: Serverless benchmarks
       description: Serverless benchmarks 
       link: "https://github.com/iAmJK44/serverless_benchmarks"
+    - title: Genomics use-case
+      description: Variant calling source code. 
+      link: "https://github.com/neardata-eu/serverless-genomics-variant-calling"
     - title: Metabolomics use-case
       description: ML models from Experiment 1. 
       link: "https://github.com/metaspace2020/metaspace/tree/master/metaspace/scoring-models"

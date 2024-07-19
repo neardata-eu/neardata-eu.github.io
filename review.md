@@ -65,14 +65,13 @@ __Chair__: Pedro García López (Coordinator)
 
 
 
-#### Videos and presentations
+#### Videos
 <div class="col-lg-12 text-center mt-4 mb-4">
 	<table class="table table-striped" style="text-align: left">
 		<thead>
 			<tr>
 				<th>Title</th>
 				<th>Video</th>
-				<th>Slides</th>
 			</tr>
 		</thead>
 		<tbody>
@@ -80,7 +79,6 @@ __Chair__: Pedro García López (Coordinator)
 			<tr>
 				<td>{{ video.title }}</td>
 				<td><a href="{{ video.video }}"><i class="fas fa-external-link-alt"></i></a></td>
-				<td> {% if video.slides != "#" %} <a href="{{ video.slides }}"><i class="fas fa-external-link-alt"></i></a> {% endif %} </td>
 			</tr>
 			{% endfor %}
 		</tbody>
