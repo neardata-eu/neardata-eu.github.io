@@ -48,6 +48,7 @@ __Chair__: Pedro García López (Coordinator)
 			<tr>
 				<th>Document</th>
 				<th>PDF</th>
+				<th>KPI</th>
 			</tr>
 		</thead>
 		<tbody>
@@ -55,6 +56,7 @@ __Chair__: Pedro García López (Coordinator)
 			<tr>
 				<td>{{ item.title }}</td>
 				<td><a href="{{ item.link }}"><i class="fas fa-external-link-alt"></i></a></td>
+				<td> {% if item.kpi != "#" %} <a href="{{ item.kpi }}"><i class="fas fa-external-link-alt"></i></a> {% endif %} </td>
 			</tr>
 			{% endfor %}
 		</tbody>

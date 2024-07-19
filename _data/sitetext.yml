@@ -225,7 +225,7 @@ review:
       lead: Coordinator
     - time: "10:00"
       subject:  |-
-        WP2 Architecture
+        WP2. Architecture
           - Lithops & Data plug (5 mins)
           - Metaspace (5 mins)
           - WP2 (15 mins)
@@ -308,18 +308,25 @@ review:
   slides:
     - title: WP1
       link: "https://docs.google.com/presentation/d/1y3VDL9Q2-JgbhXn2u00wheIrLwhZeeOO/edit?usp=drive_link&ouid=107087671061201658185&rtpof=true&sd=true"
+      kpi: ""
     - title: WP2
       link: "https://docs.google.com/presentation/d/1Nib4d0S8Ssan3abPsP558xgAN8pZ0Exy/edit?usp=drive_link&ouid=107087671061201658185&rtpof=true&sd=true"
+      kpi: "assets\kpi\NEARDATA-WP2-KPI.pdf"
     - title: WP3
       link: "https://docs.google.com/presentation/d/1SxzluBW4eeKT-lbSsTh1aPvV_nR_ukMN/edit?usp=drive_link&ouid=107087671061201658185&rtpof=true&sd=true"
+      kpi: "assets\kpi\NEARDATA-WP3-KPI.pdf"
     - title: WP4
       link: "https://docs.google.com/presentation/d/1K-vPBspiC57uqiZWw_oa7wcStv9SCEmY/edit?usp=drive_link&ouid=107087671061201658185&rtpof=true&sd=true"
+      kpi: "assets\kpi\NEARDATA-WP4-KPI.pdf"
     - title: WP5 - Transcriptomics Use Case
       link: "https://docs.google.com/presentation/d/1jUjncVOoA2xzW3F8mp1apmAe3JELrQWN/edit?usp=sharing&ouid=107087671061201658185&rtpof=true&sd=true"
+      kpi: "assets\kpi\NEARDATA-WP5-KPI.pdf"
     - title: WP5 - Surgomics Use Case
       link: "https://docs.google.com/presentation/d/1p4neeBV4eFUCQagWYQh3VErzjKnIljyR/edit?usp=sharing&ouid=107087671061201658185&rtpof=true&sd=true"
+      kpi: ""
     - title: WP6
       link: "https://drive.google.com/file/d/1wdEIxBMvMA4m20Lb0qSxb2vxY5PH-mWS/view?usp=drive_link"
+      kpi: ""
 
 
   videos:
