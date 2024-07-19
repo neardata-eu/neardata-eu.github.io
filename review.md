@@ -41,7 +41,7 @@ __Chair__: Pedro García López (Coordinator)
 	</table>
 </div>
 
-#### Review Slides (Tentative)
+#### Review Slides (tentative)
 <div class="col-lg-12 text-center mt-4 mb-4">
 	<table class="table table-striped" style="text-align: left">
 		<thead>
@@ -86,7 +86,7 @@ __Chair__: Pedro García López (Coordinator)
 </div>
 
 
-#### Deliverables
+#### Deliverables (pending approval)
 <div class="col-lg-12 text-center mt-4 mb-4">
 	<table class="table table-striped" style="text-align: left">
 		<thead>
