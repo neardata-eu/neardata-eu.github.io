@@ -126,7 +126,7 @@ results:
     - title: "Exploiting inherent elasticity of serverless in algorithms with unbalanced and irregular workloads"
       link: "https://doi.org/10.1016/j.jpdc.2024.104891"
     - title: "Serverless End Game: Disaggregation enabling Transparency"
-      url: "https://dl.acm.org/doi/10.1145/3642977.3652094"
+      link: "https://dl.acm.org/doi/10.1145/3642977.3652094"
 
 
 publications:
