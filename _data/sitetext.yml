@@ -311,16 +311,16 @@ review:
       kpi: ""
     - title: WP2
       link: "https://docs.google.com/presentation/d/1Nib4d0S8Ssan3abPsP558xgAN8pZ0Exy/edit?usp=drive_link&ouid=107087671061201658185&rtpof=true&sd=true"
-      kpi: "assets\kpi\NEARDATA-WP2-KPI.pdf"
+      kpi: "assets/kpi/NEARDATA-WP2-KPI.pdf"
     - title: WP3
       link: "https://docs.google.com/presentation/d/1SxzluBW4eeKT-lbSsTh1aPvV_nR_ukMN/edit?usp=drive_link&ouid=107087671061201658185&rtpof=true&sd=true"
-      kpi: "assets\kpi\NEARDATA-WP3-KPI.pdf"
+      kpi: "assets/kpi/NEARDATA-WP3-KPI.pdf"
     - title: WP4
       link: "https://docs.google.com/presentation/d/1K-vPBspiC57uqiZWw_oa7wcStv9SCEmY/edit?usp=drive_link&ouid=107087671061201658185&rtpof=true&sd=true"
-      kpi: "assets\kpi\NEARDATA-WP4-KPI.pdf"
+      kpi: "assets/kpi/NEARDATA-WP4-KPI.pdf"
     - title: WP5 - Transcriptomics Use Case
       link: "https://docs.google.com/presentation/d/1jUjncVOoA2xzW3F8mp1apmAe3JELrQWN/edit?usp=sharing&ouid=107087671061201658185&rtpof=true&sd=true"
-      kpi: "assets\kpi\NEARDATA-WP5-KPI.pdf"
+      kpi: "assets/kpi/NEARDATA-WP5-KPI.pdf"
     - title: WP5 - Surgomics Use Case
       link: "https://docs.google.com/presentation/d/1p4neeBV4eFUCQagWYQh3VErzjKnIljyR/edit?usp=sharing&ouid=107087671061201658185&rtpof=true&sd=true"
       kpi: ""
@@ -387,6 +387,9 @@ review:
     - title: Genomics use-case
       description: Variant calling source code. 
       link: "https://github.com/neardata-eu/serverless-genomics-variant-calling"
+    - title: Serverless benchmarks
+      description: Serverless benchmarks 
+      link: "https://github.com/iAmJK44/serverless_benchmarks"
     - title: Metabolomics use-case
       description: ML models from Experiment 1. 
       link: "https://github.com/metaspace2020/metaspace/tree/master/metaspace/scoring-models"
@@ -411,9 +414,6 @@ review:
     - title: Video-streaming benchmarks
       description: Video-streaming benchmarks with Gstreamer and Pravega connectors. 
       link: "https://github.com/neardata-eu/video-streaming-benchmarks"
-    - title: Serverless benchmarks
-      description: Serverless benchmarks 
-      link: "https://github.com/iAmJK44/serverless_benchmarks"
   
 
 about:
