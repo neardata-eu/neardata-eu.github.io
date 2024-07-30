@@ -375,6 +375,9 @@ review:
     - title: Lithops Vanilla execution
       video: "https://drive.google.com/file/d/1X472TJOs1Oq75yg_YANc4u3dsThq1WCc/view?usp=sharing"
       slides: "#"
+    - title: Metabolomics pipeline running in run.lithops.cloud online Python notebook
+      video: "https://rovira-my.sharepoint.com/:v:/g/personal/41024390-a_epp_urv_cat/EeQMH0szbSVIlHyVevhSJSIBLYSIk_i741HZpA1dgGP2qg"
+      slides: "#"
     
 
   summaries:
