@@ -22,7 +22,5 @@ nav:
     section: portfolio
   - title: "Partners"
     section: partners
-  - title: Review
-    url: '/review'
   - title: "About"
     section: about
