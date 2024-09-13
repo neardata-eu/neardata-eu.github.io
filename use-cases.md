@@ -7,6 +7,7 @@ background: grey
 	<h2 class="section-heading text-uppercase">Use cases</h2>
 </div>
 
+<br/>
 <h3>GENOMICS</h3>
 <h5>Creation of methods, fast storage, and communications infrastructures to communicate distributed computing power with scalable storage systems, allowing efficient distribution of datasets across the system.</h5>
 
@@ -31,7 +32,7 @@ genomic variants and other environmental factors. During the last decades, the g
 <h4>3. Genomics Use Case</h4>
 <p>This use case is based on variant calling to identify variants from reference genome sequences. We discuss that this type of data is extreme due to the extreme volume of data and extensive pipelines that require. large computational resources to cope with the demands needed to process and analyze this data. The objective of this use case is to port a genomics Variant calling workflow from our HPC implementation to a serverless architecture that allows processing and analyzing extreme genomic data at large scales.</p>
 
-
+<br/>
 <h3>METABOLOMICS</h3>
 <h5>Expand the analysis of metabolomics raw data and boost external access and efficient re-use of open data. Creation of federated and Hybrid distributed architecture and ensuring data privacy but also shared global computations.</h5>
 
@@ -41,7 +42,7 @@ containing in the order of 104 dimensions representing abundances of different m
 
 <p>In this project, we aim to further improve the open METASPACE cloud platform and strengthen its position as a International Health Data Space.</p>
 
-
+<br/>
 <h3>SURGERY</h3>
 <h5>Create generalised machine-learning models that can aid surgeons during surgery and allow video data to be analysed in real-time and with low latency.</h5>
 
@@ -49,6 +50,8 @@ containing in the order of 104 dimensions representing abundances of different m
 <p>Our use case in surgery encompasses two distinct focal points. Firstly, we address the challenges inherent in Federated Learning, with a primary objective of improving its security protections. To achieve this, we leverage the Flower framework, enclosing its functionalities within a Docker container for streamlined deployment and management. Additionally, we integrate <a href="https://scontain.com/" target="_blank">Scone</a> to ensure security, ensuring the preservation of privacy throughout the Federated Learning processes.</p>
 
 <p>Secondly, we embark on the development of a surgical video streaming application to handle multiple inference jobs. Our strategy revolves around the integration of <a href="https://cncf.pravega.io/" target="_blank">Pravega</a> and GStreamer into our existing pipelines. This integration empowers us to harness the advanced processing capabilities offered by GStreamer plugins, including our developed segmentation, phase detection, and tool detection plugins. Furthermore, by integrating both GStreamer and Pravega into our infrastructure, we establish a robust ecosystem that contributes to efficient data collection, processing, and storage within the context of surgical video streaming.</p>
+
+<a href="/assets/deliverables/NEARDATA_D5.1_Public.pdf" target="_blank">Learn more about our use cases in D.5.1</a>
 
 <br/>
 <br/>
