@@ -31,7 +31,7 @@ Through unique methodologies and application cases, each of the seven projects c
 <p>The seven projects in the DataNexus cluster are: <br/>
 
 <a href="https://graph-massivizer.eu/" target="_blank"><b>Graph-Massivizer:</b></a> Extreme and Sustainable Graph Processing for Urgent Societal Challenges in Europe.<br/> 
-Use Cases: Massive graph representation of extreme data in: 
+<b>Use Cases:</b> Massive graph representation of extreme data in: 
 <ul>
     <li>Data Center Digital Twin for Sustainable Exascale Computing </li>
     <li>Green AI for Sustainable Automotive Industry</li>
@@ -40,7 +40,7 @@ Use Cases: Massive graph representation of extreme data in:
 </ul>
 
 <a href="https://neardata.eu/" target="_blank"><b>NEARDATA:</b></a>Extreme Near-Data Processing Platform. <br/> 
-Use Cases: A near-data platform for consumption, mining and processing of data in:
+<b>Use Cases:</b> A near-data platform for consumption, mining and processing of data in:
 <ul>
     <li>Genomics </li>
     <li>Metabolics</li>
@@ -48,7 +48,7 @@ Use Cases: A near-data platform for consumption, mining and processing of data i
 </ul>
 
 <a href="https://exa4mind.eu/" target="_blank"><b>EXA4MIND:</b></a> EX4MIND platform for extreme data enables advanced data analytics on supercomputers and automated data management with support for integration by design with European data ecosystems. <br/> 
-Use Cases: 
+<b>Use Cases:</b> 
 <ul>
     <li>Systematic improvement of molecular simulations and accuracy </li>
     <li>Massively automated annotation and evaluation of automotive camera recordings </li>
@@ -57,7 +57,7 @@ Use Cases:
 </ul>
 
 <a href="https://extract-project.eu/" target="_blank"><b>EXTRACT:</b></a> A distributed data-mining software platform for extreme data across the compute continuum. <br/> 
-Use Cases:
+<b>Use Cases:</b>
 <ul>
     <li>Personalized evacuation route system (mobile app) </li>
     <li>Transient astrophysics for analyzing space weather </li>
@@ -68,7 +68,7 @@ Use Cases:
 
 
 <a href="https://efraproject.eu/" target="_blank"><b>EFRA:</b></a> Extreme Food Risk Analytics.<br/>  
-Use Cases: 
+<b>Use Cases:</b> 
 <ul>
     <li>Risk predictions for poultry pathogens </li>
     <li>Enhanced predictive capabilities for pest alarms </li>
@@ -77,7 +77,7 @@ Use Cases:
 
 
 <a href="https://emeralds-horizon.eu/" target="_blank"><b>EMERALDS:</b></a> Extreme-scale Urban Mobility Data Analytics as a Service. The MAaaS toolset will stand out by moving analytics and sensitive data analytics to edge computing, enhancing response times and safeguarding data privacy. <br/>  
-Use Cases: 
+<b>Use Cases:</b> 
 <ul>
     <li>Mobility analytics as a service toolset </li>
     <li>Risk-assessment, prediction and forecasting during events </li>
