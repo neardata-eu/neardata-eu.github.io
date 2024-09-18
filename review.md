@@ -7,9 +7,9 @@ background: grey
 	<h2 class="section-heading text-uppercase">Neardata project review</h2>
 </div>
 
-#### Final Review Agenda
+#### First Review Agenda
 
-__Meeting Subject__: Neardata final review
+__Meeting Subject__: Neardata first review
 
 __Venue__: Online - Microsoft Teams
 
