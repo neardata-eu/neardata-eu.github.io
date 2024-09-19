@@ -109,7 +109,7 @@ results:
       link: "https://arxiv.org/abs/2311.06154"
     - title: "Trustworthy confidential virtual machines for the masses"
       link: "https://dl.acm.org/doi/10.1145/3590140.3629124"
-    - title: "GLIDER: A Scalable and Elastic Data Lake for the Cloud in Serverless Environments"  
+    - title: "Glider: Serverless Ephemeral Stateful Near-Data Computation"  
       link: "https://dl.acm.org/doi/10.1145/3590140.3629119"
     - title: "Scaling a Variant Calling Genomics Pipeline with FaaS"
       link: "https://dl.acm.org/doi/10.1145/3631295.3631403"
@@ -133,6 +133,10 @@ results:
       link: "#"
     - title: "CRISP: Confidentiality, Rollback, and Integrity Storage Protection for Confidential Stateful Computing (pending link)"
       link: "#"  
+    - title: "Serverful Functions: Leveraging Servers in Complex Serverless Workflows (industry track) (pending link)"
+      link: "#" 
+    - title: "StreamSense: Policy-driven Semantic Video Search in Streaming Systems (pending link)"
+      link: "#" 
 
 
 publications:
@@ -156,7 +160,7 @@ publications:
       url: "https://arxiv.org/abs/2311.06154"
     - title: "Trustworthy confidential virtual machines for the masses"
       url: "https://dl.acm.org/doi/10.1145/3590140.3629124"
-    - title: "GLIDER: A Scalable and Elastic Data Lake for the Cloud in Serverless Environments"  
+    - title: "Glider: Serverless Ephemeral Stateful Near-Data Computation"  
       url: "https://dl.acm.org/doi/10.1145/3590140.3629119"
     - title: "Scaling a Variant Calling Genomics Pipeline with FaaS"
       url: "https://dl.acm.org/doi/10.1145/3631295.3631403"
@@ -179,9 +183,12 @@ publications:
     - title: "Dataplug: Cloud-aware Unstructured Data Management for Scientific Cloud Computing (pending link)"
       url: "#"
     - title: "CRISP: Confidentiality, Rollback, and Integrity Storage Protection for Confidential Stateful Computing (pending link)"
-      url: "#"   
+      url: "#"    
+    - title: "Serverful Functions: Leveraging Servers in Complex Serverless Workflows (industry track) (pending link)"
+      url: "#" 
+    - title: "StreamSense: Policy-driven Semantic Video Search in Streaming Systems (pending link)"
+      url: "#"  
 
-    
        
 news:
   title: News
