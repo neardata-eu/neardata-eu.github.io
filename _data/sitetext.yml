@@ -137,6 +137,8 @@ results:
       link: "#" 
     - title: "StreamSense: Policy-driven Semantic Video Search in Streaming Systems (pending link)"
       link: "#" 
+    - title: "Exploring Secure and Efficient Temporary Data Sharing between co-located Kubernetes Containers (pending link)"
+      url: "#"
 
 
 publications:
@@ -188,7 +190,7 @@ publications:
       url: "#" 
     - title: "StreamSense: Policy-driven Semantic Video Search in Streaming Systems (pending link)"
       url: "#"  
-    - title: Exploring Secure and Efficient Temporary Data Sharing between co-located Kubernetes Containers (pending link)
+    - title: "Exploring Secure and Efficient Temporary Data Sharing between co-located Kubernetes Containers (pending link)"
       url: "#"
 
        
