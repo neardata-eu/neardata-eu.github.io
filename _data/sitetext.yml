@@ -18,7 +18,7 @@ objectives:
     and offers a novel confidential cybersecurity layer for trusted data computation.
   image: objectives.png
   text2: |
-    The goals of NearData are the following:
+    The goals of NEARDATA are the following:
       - **Provide high-performance near-data processing for Extreme Data Types:** The first objective is to create a
         novel intermediary data service (XtremeDataHub) providing serverless data connectors that optimize data management operations
         (partitioning, filtering, transformation, aggregation) and interactive queries (search, discovery, matching,
@@ -58,6 +58,22 @@ use_cases:
         subtitle: |
           Create generalised machine-learning models that can aid surgeons during surgery and allow video data to be analysed in real-time and with low latency.
         favicon: fa-stethoscope
+
+materials:
+  title: Dissemination materials
+  material:
+    - title: Video
+      image: assets\img\materials\NEARDATA_video.png
+      link: https://youtu.be/GmQetMrwCQw
+    - title: Brochure
+      image: assets\img\materials\NEARDATA_brochure.png
+      link: assets\dissemination\NEARDATA_Brochure_DEF.pdf 
+    - title: Poster
+      image: 
+      link: 
+    - title: Presentation
+      image: 
+      link: 
 
 results:
   title: Deliverables

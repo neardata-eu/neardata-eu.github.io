@@ -1,3 +1,8 @@
+---
+layout: page
+background: grey
+---
+
 <!-- Portfolio Grid -->
 <section class="page-section bg-light" id="portfolio">
   <div class="container">
@@ -26,13 +31,6 @@
       {% endfor %}
     </div>
   </div>
-
-  <div>
-    <div class="col-lg-12 text-center mt-4">
-      <a href="/news" class="btn btn-primary btn-xl js-scroll-trigger"><b>More news</b></a>
-    </div>
-  </div>
-
 </section>
 
 {% include modals.html %}

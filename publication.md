@@ -11,7 +11,7 @@ background: grey
 	<table class="table table-striped" style="text-align: left">
 		<thead>
 			<tr>
-				<th>Publication</th>
+				<th>Title</th>
 				<th>Journal or equivalent</th>
 				<th>Authors</th>
 				<th>Year</th>
@@ -23,7 +23,7 @@ background: grey
 			{% for publication in site.data.sitetext.publications %}
 			<tr>
 				<td>{{ publication.title }}</td>
-				<td>{{ publication.type }}: {{ publication.journal-conf }}</td>
+				<td>{{ publication.journal-conf }}</td>
 				<td>{{ publication.authors }}</td>
 				<td>{{ publication.year }}</td>
 				<td>{{ publication.doi }}</td>
