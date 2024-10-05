@@ -95,10 +95,10 @@ __Chair__: Pedro García López (Coordinator)
 			</tr>
 		</thead>
 		<tbody>
-			{% for publication in site.data.sitetext.results.publications %}
+			{% for publication in site.data.sitetext.publications %}
 			<tr>
 				<td>{{ publication.title }}</td>
-				<td><a href="{{ publication.link }}"><i class="fas fa-external-link-alt"></i></a></td>
+				<td><a href="{{ publication.url }}"><i class="fas fa-external-link-alt"></i></a></td>
 			</tr>
 			{% endfor %}
 		</tbody>

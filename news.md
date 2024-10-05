@@ -1,3 +1,7 @@
+---
+layout: page
+background: grey
+---
 <!-- Portfolio Grid -->
 <section class="page-section bg-light" id="portfolio">
   <div class="container">

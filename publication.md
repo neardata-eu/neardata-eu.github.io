@@ -11,15 +11,23 @@ background: grey
 	<table class="table table-striped" style="text-align: left">
 		<thead>
 			<tr>
-				<th>Name</th>
+				<th>Title</th>
+				<th>Journal or equivalent</th>
+				<th>Authors</th>
+				<th>Year</th>
+				<th>DOI</th>
 				<th>Link</th>
 			</tr>
 		</thead>
 		<tbody>
-			{% for publication in site.data.sitetext.results.publications %}
+			{% for publication in site.data.sitetext.publications %}
 			<tr>
 				<td>{{ publication.title }}</td>
-				<td><a href="{{ publication.link }}"><i class="fas fa-external-link-alt"></i></a></td>
+				<td>{{ publication.journal-conf }}</td>
+				<td>{{ publication.authors }}</td>
+				<td>{{ publication.year }}</td>
+				<td>{{ publication.doi }}</td>
+				<td><a href="{{ publication.url }}"><i class="fas fa-external-link-alt"></i></a></td>
 			</tr>
 			{% endfor %}
 		</tbody>
