@@ -9,9 +9,6 @@
     <hr class="light pb-5">
     <div class="row">
       {% for project in site.news reversed %}
-      {% if forloop.index > 6 %}
-        {% break %}
-      {% endif %}
       <div class="col-md-4 col-sm-6 portfolio-item">
         <a class="portfolio-link" data-toggle="modal" href="#p{{ forloop.index }}">
           <div class="portfolio-hover">
@@ -27,9 +24,6 @@
         </div>
       </div>
       {% endfor %}
-      <div class="col-lg-12 text-center mt-4">
-        <a href="/news" class="btn btn-primary btn-xl js-scroll-trigger">See all the news</a>
-    </div>
     </div>
   </div>
 </section>
