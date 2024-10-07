@@ -13,8 +13,9 @@ background: grey
     <hr class="light pb-5">
     <div class="row">
       {% for project in site.news reversed %}
+      {% assign length = forloop.length %}
       <div class="col-md-4 col-sm-6 portfolio-item">
-        <a class="portfolio-link" data-toggle="modal" href="#p{{ forloop.index }}">
+        <a class="portfolio-link" data-toggle="modal" href="#p{{ length | minus: forloop.index0 }}">
           <div class="portfolio-hover">
             <div class="portfolio-hover-content">
               <i class="{{ site.data.style.portfolio-icon | default: " fas fa-plus fa-3x" }}"></i>
