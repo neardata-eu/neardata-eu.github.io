@@ -11,7 +11,9 @@ background: grey
 
 <h4>Seven EU projects collaborate around shared mission to extract meaningful insights from extreme data </h4>
 
-<img src="assets/img/DataNexus_Logo.png" alt="DataNexus Cluster" width="35%">
+<div class="col-lg-12 text-center mb-4">
+<img src="assets/img/datanexus/DataNexus_Logo.png" alt="DataNexus Cluster" width="35%">
+</div>
 
 <a href="assets/dissemination/DATANEXUS_Flyer.pdf" target="_blank">See the DataNexus flyer</a>
 
@@ -28,8 +30,11 @@ Through unique methodologies and application cases, each of the seven projects c
 <p>The cluster is dedicated to fostering a vibrant community within the seven projects. By creating a space for exchange, knowledge-sharing and network-sharing the cluster aims to create a synergetic ecosystem. This collaborative effort maximises the impact of the projects by enhancing communication networks and facilitating exchange, with partners from across Europe, showcasing the effectiveness of Horizon Europe and laying the foundation for future collaborations. </p>
 
 <h4>DataNexus in summary</h4>
-<p>The seven projects in the DataNexus cluster are: <br/>
+<p>The seven projects in the DataNexus cluster are: </p>
 
+<div class="col-lg-12 text-center mb-4">
+<img src="assets/img/datanexus/Graph-Massivizer_logo.jpg" alt="Graph-Massivizer" width="20%">
+</div>
 <a href="https://graph-massivizer.eu/" target="_blank"><b>Graph-Massivizer:</b></a> Extreme and Sustainable Graph Processing for Urgent Societal Challenges in Europe.<br/> 
 <b>Use Cases:</b> Massive graph representation of extreme data in: 
 <ul>
@@ -39,6 +44,9 @@ Through unique methodologies and application cases, each of the seven projects c
     <li>Green and Sustainable Finance</li>
 </ul>
 
+<div class="col-lg-12 text-center mb-4">
+<img src="assets/img/datanexus/NEARDATA_Logo.png" alt="NEARDATA" width="15%">
+</div>
 <a href="https://neardata.eu/" target="_blank"><b>NEARDATA:</b></a>Extreme Near-Data Processing Platform. <br/> 
 <b>Use Cases:</b> A near-data platform for consumption, mining and processing of data in:
 <ul>
@@ -47,6 +55,9 @@ Through unique methodologies and application cases, each of the seven projects c
     <li>Surgery</li>
 </ul>
 
+<div class="col-lg-12 text-center mb-4">
+<img src="assets/img/datanexus/EXA4MIND_Logo.png" alt="EXA4MIND" width="15%">
+</div>
 <a href="https://exa4mind.eu/" target="_blank"><b>EXA4MIND:</b></a> EX4MIND platform for extreme data enables advanced data analytics on supercomputers and automated data management with support for integration by design with European data ecosystems. <br/> 
 <b>Use Cases:</b> 
 <ul>
@@ -56,6 +67,9 @@ Through unique methodologies and application cases, each of the seven projects c
     <li>Secure data mining in health data</li>
 </ul>
 
+<div class="col-lg-12 text-center mb-4">
+<img src="assets/img/datanexus/Extract_logo.png" alt="EXTRACT" width="20%">
+</div>
 <a href="https://extract-project.eu/" target="_blank"><b>EXTRACT:</b></a> A distributed data-mining software platform for extreme data across the compute continuum. <br/> 
 <b>Use Cases:</b>
 <ul>
@@ -63,10 +77,14 @@ Through unique methodologies and application cases, each of the seven projects c
     <li>Transient astrophysics for analyzing space weather </li>
 </ul>
 
-
+<div class="col-lg-12 text-center mb-4">
+<img src="assets/img/datanexus/Syclops_Logo.png" alt="SYCLOPS" width="20%">
+</div>
 <a href="https://www.syclops.org/" target="_blank"><b>SYCLOPS:</b></a> Scaling extreme analytics with cross-architecture acceleration based on open standards, and advancing AI/data mining by democratizing its acceleration through open standards. <br/> <br/>
 
-
+<div class="col-lg-12 text-center mb-4">
+<img src="assets/img/datanexus/EFRA-Logo.png" alt="EFRA" width="20%"><br/>
+</div>
 <a href="https://efraproject.eu/" target="_blank"><b>EFRA:</b></a> Extreme Food Risk Analytics.<br/>  
 <b>Use Cases:</b> 
 <ul>
@@ -75,7 +93,9 @@ Through unique methodologies and application cases, each of the seven projects c
     <li>Informing regulatory decisions with food risk intelligence </li>
 </ul>
 
-
+<div class="col-lg-12 text-center mb-4">
+<img src="assets/img/datanexus/Emeralds_logo.png" alt="EMERALDS" width="20%">
+</div>
 <a href="https://emeralds-horizon.eu/" target="_blank"><b>EMERALDS:</b></a> Extreme-scale Urban Mobility Data Analytics as a Service. The MAaaS toolset will stand out by moving analytics and sensitive data analytics to edge computing, enhancing response times and safeguarding data privacy. <br/>  
 <b>Use Cases:</b> 
 <ul>
