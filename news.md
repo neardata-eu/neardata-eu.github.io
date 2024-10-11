@@ -31,6 +31,30 @@ background: grey
       {% endfor %}
     </div>
   </div>
+
+  <div class="col-lg-12 text-center mb-4">
+	<h2 class="section-heading text-uppercase">List of press releases</h2>
+</div>
+
+<div class="col-lg-12 text-center">
+	<table class="table table-striped" style="text-align: left">
+		<thead>
+			<tr>
+				<th>Title</th>
+				<th>Link</th>
+			</tr>
+		</thead>
+		<tbody>
+			{% for press in site.data.sitetext.press %}
+			<tr>
+				<td>{{ press.title }}</td>
+				<td><a href="{{ press.url }}"><i class="fas fa-external-link-alt"></i></a></td>
+			</tr>
+			{% endfor %}
+		</tbody>
+	</table>
+</div>
+
 </section>
 
 {% include modals.html %}

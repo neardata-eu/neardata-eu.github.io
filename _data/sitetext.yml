@@ -84,6 +84,14 @@ materials:
       image: assets\dissemination\Word_Cloud_NEARDATA.png
       link: assets\dissemination\Word_Cloud_NEARDATA.png
 
+press:
+  - title: "Cloud Data Technologies Revolutionizing Healthcare"
+    url: "https://xartecsalut.com/cloud-data-technologies-revolutionizing-healthcare/"
+  - title: "M6 NEARDATA meeting in Dresden"
+    url: "https://sano.science/m6-neardata-meeting-in-dresden/"
+  - title: "Pravega in European Research Projects"
+    url: "https://cncf.pravega.io/blog/2023/06/06/pravega-in-european-research-projects/"
+
 results:
   title: Deliverables
   deliverables:
