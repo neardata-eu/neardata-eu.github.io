@@ -18,8 +18,8 @@ background: grey
 		<tbody>
 			{% for material in site.data.sitetext.materials.material %}
 			<tr>
-				<td width="60%"><a href="{{ material.link }}" target="_blank"><img class="img-fluid" src="{{ material.image }}" alt="" width="35%"></a> </td>
-				<td width="40%"> {{ material.title }} </td>
+				<td width="60%"><a href="{{ material.link }}" target="_blank"><img class="img-fluid" src="{{ material.image }}" alt="" width="35%"></a>  &nbsp; &nbsp; {{ material.title }}  <a href="{{ material.link }}" target="_blank"><i class="fas fa-external-link-alt"></i></a> </td>
+				<td width="40%"></td>
 			</tr>
 			{% endfor %}
 		</tbody>

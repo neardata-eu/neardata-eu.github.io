@@ -62,18 +62,27 @@ use_cases:
 materials:
   title: Dissemination materials
   material:
-    - title: Video
+    - title: NEARDATA Project Video
       image: assets\img\materials\NEARDATA_video.png
       link: https://youtu.be/GmQetMrwCQw
-    - title: Brochure
+    - title: NEARDATA Project Brochure
       image: assets\img\materials\NEARDATA_brochure.png
       link: assets\dissemination\NEARDATA_Brochure_DEF.pdf 
-    - title: Poster
-      image: 
-      link: 
-    - title: Presentation
-      image: 
-      link: 
+    - title: NEARDATA Project Poster 1
+      image: assets\dissemination\NEARDATA_poster.png
+      link: assets\dissemination\NEARDATA_poster.png
+    - title: NEARDATA Project Poster 2
+      image: assets\dissemination\NEARDATA_poster2.png
+      link: assets\dissemination\neardata-poster2.pdf
+    - title: NEARDATA Technical Presentation
+      image: assets\dissemination\
+      link: assets\dissemination\
+    - title: NEARDATA General Presentation
+      image: assets\dissemination\
+      link: assets\dissemination\
+    - title: NEARDATA Word Cloud
+      image: assets\dissemination\Word_Cloud_NEARDATA.png
+      link: assets\dissemination\Word_Cloud_NEARDATA.png
 
 results:
   title: Deliverables
