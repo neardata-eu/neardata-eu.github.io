@@ -75,11 +75,11 @@ materials:
       image: assets\dissemination\NEARDATA_poster2.png
       link: assets\dissemination\neardata-poster2.pdf
     - title: NEARDATA Technical Presentation
-      image: assets\dissemination\
-      link: assets\dissemination\
+      image: assets\dissemination\NEARDATA-Technical_presentation.png
+      link: assets\dissemination\NEARDATA-Technical-Overview.pdf
     - title: NEARDATA General Presentation
-      image: assets\dissemination\
-      link: assets\dissemination\
+      image: assets\dissemination\NEARDATA-General_presentation.png
+      link: assets\dissemination\NEARDATA_General_Public_Presentation.pdf
     - title: NEARDATA Word Cloud
       image: assets\dissemination\Word_Cloud_NEARDATA.png
       link: assets\dissemination\Word_Cloud_NEARDATA.png
