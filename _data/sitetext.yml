@@ -359,6 +359,35 @@ partners:
       url: https://www.gov.uk/government/organisations/department-of-health-and-social-care
       logo: doh.png
 
+dn_partners:
+  title: "Projects"
+  text: "Meet the projects that form DataNexus"
+  section: clients
+  max-height: 100px
+  horizontal-scrolling: "" #"yes/no"
+  list:
+    - name: NEARDATA
+      url: https://neardata.eu/
+      logo: NEARDATA_Logo.png
+    - name: Graph-Massivizer
+      url: https://graph-massivizer.eu/
+      logo: LOGO-Graph-Massivizer.png
+    - name: EXA4MIND
+      url: https://exa4mind.eu/
+      logo: EXA4MIND_Logo.png
+    - name: EXTRACT
+      url: https://extract-project.eu/
+      logo: Extract_logo.png
+    - name: SYCLOPS
+      url: https://www.syclops.org/
+      logo: Syclops_Logo.png
+    - name: EFRA
+      url: https://efraproject.eu/
+      logo: EFRA-Logo.png
+    - name: EMERALDS
+      url: https://emeralds-horizon.eu/
+      logo: Emeralds_logo.png
+
 review:
   events:
     - time: "9:00"
