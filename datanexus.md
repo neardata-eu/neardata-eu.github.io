@@ -23,19 +23,28 @@ background: grey
 <img src="assets/img/datanexus/DataNexus_clients.png" width="40%">
 </div>
 
-<h4>DataNexus key goals</h4>
-<h6>Tackling Extreme Data Challenges</h6>
-<p>Data generation is increasing rapidly, but current technologies struggle to handle extreme amounts of data. Effectively analysing and vi sualising large and diverse data sets remains a challenge. DataNexus aims to solve this by developing advanced computing and data tech nologies that offer reliable solutions to users. </p>
+<section class="page-section" id="calltoaction">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">DataNexus key goals</h2>
+                <hr class="light">
+            </div>
+                <h6>Tackling Extreme Data Challenges</h6>
+                <p>Data generation is increasing rapidly, but current technologies struggle to handle extreme amounts of data. Effectively analysing and vi sualising large and diverse data sets remains a challenge. DataNexus aims to solve this by developing advanced computing and data tech nologies that offer reliable solutions to users. </p>
 
-<h6>Integrating Cutting-edge Technologies</h6>
-<p>The seven DataNexus projects integrate innovative data mining, analytics and visualisation technologies to create robust frameworks for better data management and interpretation. AI, IoT and advanced computing paradigms such as HPC and edge/fog/cloud computing converge to enable real-time processing and analysis across the entire computing continuum. </p>
+                <h6>Integrating Cutting-edge Technologies</h6>
+                <p>The seven DataNexus projects integrate innovative data mining, analytics and visualisation technologies to create robust frameworks for better data management and interpretation. AI, IoT and advanced computing paradigms such as HPC and edge/fog/cloud computing converge to enable real-time processing and analysis across the entire computing continuum. </p>
 
-<h6>Achievements and Innovations</h6>
-<p>The projects significantly improve data processing, analysis and visualisation, increasing accuracy, speed and usability for a variety of applications. These advances will benefit fields such as crisis management, healthcare, mobility, industry, environmental protection and food safety. The human-centred, user-friendly design ensures that the tools are practical and respond to key human needs.  </p>
+                <h6>Achievements and Innovations</h6>
+                <p>The projects significantly improve data processing, analysis and visualisation, increasing accuracy, speed and usability for a variety of applications. These advances will benefit fields such as crisis management, healthcare, mobility, industry, environmental protection and food safety. The human-centred, user-friendly design ensures that the tools are practical and respond to key human needs.  </p>
 
-<div class="col-lg-12 text-center mb-4">
-<img src="assets/img/datanexus/DataNexus_reason.png" width="70%">
-</div>
+                <div class="col-lg-12 text-center mb-4">
+                <img src="assets/img/datanexus/DataNexus_reason.png" width="70%">
+                </div>
+        </div>
+    </div>
+</section>
 
 <section class="page-section" id="dn_partners">
   <div class="container">
@@ -65,7 +74,26 @@ background: grey
 </section>
 
 
-<div class="col-lg-12 text-center mt-4">
-        <a href="assets/dissemination/DATANEXUS_Flyer.pdf" class="btn btn-primary btn-xl js-scroll-trigger">See the DataNexus flyer</a>
- </div>
-<br/> <br/>  
+<section class="page-section" id="other">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">Other information</h2>
+            </div>
+        </div>
+        <hr class="light pb-5">
+        <div class="d-flex align-content-around flex-wrap justify-content-center">
+            {% for information in site.data.sitetext.other.information %}
+            <div class="m-2">
+                <div class="card" style="width: 18rem;">
+                    <div class="card-body">
+                      <h5 class="card-title">{{ information.title }}</h5>
+                      <h6 class="card-subtitle mb-2 text-muted">{{ information.subtitle }}</h6>
+                      <a href="{{ information.file }}" class="card-link"><i class="fas fa-file-pdf"></i> Link</a>
+                    </div>
+                  </div>
+            </div>
+            {% endfor %}   
+        </div>   
+    </div>
+</section>

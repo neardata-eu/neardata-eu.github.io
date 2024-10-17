@@ -91,6 +91,12 @@ press:
     url: "https://sano.science/m6-neardata-meeting-in-dresden/"
   - title: "Pravega in European Research Projects"
     url: "https://cncf.pravega.io/blog/2023/06/06/pravega-in-european-research-projects/"
+  - title: "NEARDATA in the URV"
+    url: "https://www.urv.cat/en/about/get-to-know/reports/curs-2022-23/"  
+  - title: "European projects presentation"
+    url: "" 
+  - title: "The URV obtains e 2.000.000 to promote four international projects on cloud computing and artificial intelligence"
+    url: "https://diaridigital.urv.cat/en/urv-obtains-two-million-euros-promote-four-international-projects-cloud-computing-artificial-intelligence/" 
 
 results:
   title: Deliverables
@@ -122,6 +128,19 @@ results:
     - title: Deliverable 6.2
       subtitle: Communication and standardization report
       file: ../assets/deliverables/NEARDATA_D6.2_Public.pdf
+
+other:
+  title: Information
+  information:
+    - title: EBDVF24 press release
+      subtitle: DataNexus in European Big Data Value Forum (EBDVF24)
+      file: assets/img/datanexus/DataNexus_EBDVF24_press_release.pdf
+    - title: DataNexus flyer
+      subtitle: Innovative Approaches to Extreme Data Challenges
+      file: assets/img/datanexus/DATANEXUS_Flyer.pdf
+    - title: Data sister projects press release
+      subtitle: Introducing the EU Cluster
+      file: assets/img/datanexus/Data_Sister_Projects_press release_FINAL.pdf
 
 publications:
   - title: "On Data Processing through the Lenses of S3 Object Lambda"
@@ -212,14 +231,6 @@ publications:
     authors: "Raúl Gracia-Tinedo, Brian Zhou, Yimin Xiong, Luis Liu"
     doi: "10.1145/3626562.3626828"
     quartil:
-  - title: "Scaling a Variant Calling Genomics Pipeline with FaaS"
-    url: "https://dl.acm.org/doi/10.1145/3631295.3631403"
-    journal-conf: "WoSC '23: Proceedings of the 9th International Workshop on Serverless Computing"
-    type: "Publication in conference proceeding/workshop"
-    year: "2023" 
-    authors: "Aitor Arjona, Arnau Gabriel-Atienza, Sara Lanuza-Orna, Xavier Roca-Canals, Ayman Bourramouss, Tyler K. Chafin, Lucio Marcello, Paolo Ribeca, Pedro García-López"
-    doi: "10.48550/arXiv.2312.07090"
-    quartil:
   - title: "Pravega: A Tiered Storage System for Data Streams"
     url: "https://dl.acm.org/doi/10.1145/3590140.3629113"
     journal-conf: "Middleware '23: Proceedings of the 24th International Middleware Conference"
@@ -227,6 +238,14 @@ publications:
     year: "2023" 
     authors: "Raúl Gracia-Tinedo, Flavio Junqueira, Tom Kaitchuck, Sachin Joshi"
     doi: "10.1145/3590140.3629113"
+    quartil:
+  - title: "Scaling a Variant Calling Genomics Pipeline with FaaS"
+    url: "https://dl.acm.org/doi/10.1145/3631295.3631403"
+    journal-conf: "WoSC '23: Proceedings of the 9th International Workshop on Serverless Computing"
+    type: "Publication in conference proceeding/workshop"
+    year: "2023" 
+    authors: "Aitor Arjona, Arnau Gabriel-Atienza, Sara Lanuza-Orna, Xavier Roca-Canals, Ayman Bourramouss, Tyler K. Chafin, Lucio Marcello, Paolo Ribeca, Pedro García-López"
+    doi: "10.48550/arXiv.2312.07090"
     quartil:
   - title: "The Nanoservices Framework: Co-locating Microservices in the Cloud-Edge Continuum"
     url: "https://ieeexplore-ieee-org.sabidi.urv.cat/stamp/stamp.jsp?tp=&arnumber=10355592"
@@ -262,11 +281,11 @@ publications:
     quartil:
   - title: "Serverless End Game: Disaggregation enabling Transparency"
     url: "https://dl.acm.org/doi/10.1145/3642977.3652094"
-    journal-conf:
+    journal-conf: "SESAME '24"
     type: "Publication in conference proceeding/workshop"
     year: "2024" 
-    authors:
-    doi:
+    authors: "Pedro Garcia Lopez, Aleksander Slominski, Bernard Metzler, Michael Berhendt, Simon Shillaker"
+    doi: "10.1145/3642977.3652094"
     quartil:
   - title: "The many faces of locality in Big Data Analytics. Springer Handbook of Data Engineering (pending link)"
     url: "#"
@@ -372,21 +391,21 @@ dn_partners:
     - name: Graph-Massivizer
       url: https://graph-massivizer.eu/
       logo: LOGO-Graph-Massivizer.png
-    - name: EXA4MIND
-      url: https://exa4mind.eu/
-      logo: EXA4MIND_Logo.png
+    - name: EFRA
+      url: https://efraproject.eu/
+      logo: EFRA-Logo.png
     - name: EXTRACT
       url: https://extract-project.eu/
       logo: Extract_logo.png
     - name: SYCLOPS
       url: https://www.syclops.org/
       logo: Syclops_Logo.png
-    - name: EFRA
-      url: https://efraproject.eu/
-      logo: EFRA-Logo.png
     - name: EMERALDS
       url: https://emeralds-horizon.eu/
       logo: Emeralds_logo.png
+    - name: EXA4MIND
+      url: https://exa4mind.eu/
+      logo: EXA4MIND_Logo.png
 
 review:
   events:
