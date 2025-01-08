@@ -242,12 +242,12 @@ publications:
     authors: "Eric Caron, Raúl Gracia-Tinedo"
     doi: "10.1109/ICNP59255.2023.10355592"
   - title: "METASPACE-ML: Metabolite annotation for imaging mass spectrometry using machine learning"
-    url: "https://www.biorxiv.org/content/10.1101/2023.05.29.542736v2"
-    journal-conf: "bioRxiv"
+    url: "https://www.nature.com/articles/s41467-024-52213-9"
+    journal-conf: "Nature Communications"
     type: "Article in journal"
     year: "2024" 
     authors: "Bishoy Wadie, Lachlan Stuart, Christopher M. Rath, Theodore Alexandrov"
-    doi: "10.1101/2023.05.29.542736v2"
+    doi: "10.1038/s41467-024-52213-9"
   - title: "One model to use them all: Training a segmentation model with complementary datasets"
     url: "https://arxiv.org/pdf/2402.19340"
     journal-conf: "IPCAI24"
@@ -290,26 +290,26 @@ publications:
     year: "2024" 
     authors: "Ardhi Putra Pratama Hartono, Andrey Brito, Christof Fetzer"
     doi: "10.48550/arXiv.2408.06822"
-  - title: "Serverful Functions: Leveraging Servers in Complex Serverless Workflows (industry track) (pending link)"
-    url: "#" 
-    journal-conf:
+  - title: "Serverful Functions: Leveraging Servers in Complex Serverless Workflows (industry track)"
+    url: "https://dl.acm.org/doi/10.1145/3700824.3701095" 
+    journal-conf: "Middleware Industrial Track '24"
     type: "Publication in conference proceeding/workshop"
     year: "2024" 
-    authors:
-    doi:
-  - title: "StreamSense: Policy-driven Semantic Video Search in Streaming Systems (pending link)"
-    url: "#" 
-    journal-conf: 
+    authors: "Germán T. Eizaguirre, Daniel Barcelona-Pons, Aitor Arjona, Gil Vernik, Pedro García-López, Theodore Alexandrov"
+    doi: "10.1145/3700824.3701095"
+  - title: "StreamSense: Policy-driven Semantic Video Search in Streaming Systems"
+    url: "https://dl.acm.org/doi/10.1145/3700824.3701097" 
+    journal-conf: "Middleware Industrial Track '24"
     type: "Publication in conference proceeding/workshop"
     year: "2024" 
-    authors:
-    doi:
+    authors: "Finol, Gerard; Gabriel, Arnau; Garcia-Lopez, Pedro; Gracia-Tinedo, Raul; Liu, Luis; Docea, Reuben; Kirchner, Max; Bodenstedt, Sebastian"
+    doi: "10.1145/3700824.3701097"
   - title: "Exploring Secure and Efficient Temporary Data Sharing between co-located Kubernetes Containers (pending link)"
     url: "#"
-    journal-conf:
+    journal-conf: "CEC'24"
     type: "Publication in conference proceeding/workshop"
     year: "2024" 
-    authors:
+    authors: "Aitor Arjona, Bernard Metzler, Pascal Spörri"
     doi:
   - title: "Dataplug: Unlocking extreme data analytics with on-the-fly dynamic partitioning of unstructured data"
     url: "https://zenodo.org/records/14161823" 
@@ -321,11 +321,24 @@ publications:
   - title: "Optimizing STAR Aligner for High Throughput Computing in the Cloud"
     url: "https://arxiv.org/abs/2409.05886"
     journal-conf: "Cluster2024"
-    type: "Publication in conference proceeding/workshop"
+    type: "Conference in the poster format"
     year: "2024" 
     authors: "Piotr Kica, Sabina Lichołai, Michał Orzechowski, Maciej Malawski"
     doi: "10.48550/arXiv.2409.05886"
-
+  - title: "Back to the Byte: Towards Byte-oriented Semantics for Streaming Storage"
+    url: "https://dl.acm.org/doi/10.1145/3700824.3701099"
+    journal-conf: "Middleware Industrial Track '24"
+    type: "Publication in conference proceeding/workshop"
+    year: "2024" 
+    authors: "Gracia-Tinedo, Raul; Junqueira, Flavio; Kaitchuck, Tom"
+    doi: "10.1145/3700824.3701099"
+  - title: ""
+    url: ""
+    journal-conf: "Middleware Industrial Track '24"
+    type: "Publication in conference proceeding/workshop"
+    year: "2024" 
+    authors: ""
+    doi: ""
        
 news:
   title: News
