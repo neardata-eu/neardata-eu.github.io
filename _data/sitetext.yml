@@ -150,7 +150,6 @@ publications:
     year: "2023" 
     authors: "Gimeno Sarroca and M. Sánchez-Artigas"
     doi: "10.1109/INFOCOM53939.2023.10228890"
-    quartil:
   - title: "Challenges and Opportunities for RISC-V Architectures Towards Genomics-Based Workloads"
     url: "https://link.springer.com/chapter/10.1007/978-3-031-40843-4_34"
     journal-conf: "First International workshop on RISC-V for HPC, of ISC High Performance conference"
@@ -158,7 +157,6 @@ publications:
     year: "2023" 
     authors: "Gonzalo Gómez- Sánchez, Aaron call, Xavier Teruel, Lorena Alonso, Ignasi Moran, Miguel Ángel Perez, David Torrents, Josep Ll. Berral"
     doi: "10.1007/978-3-031-40843-4_34"
-    quartil:
   - title: "A Seer knows best: Auto-tuned object storage shuffling for serverless analytics"
     url: "https://doi.org/10.1016/j.jpdc.2023.104763"
     journal-conf: "Journal of Parallel and Distributed Computing"
@@ -166,7 +164,6 @@ publications:
     year: "2023" 
     authors: "G. Eizaguirre and M. Sánchez-Artigas"
     doi: "10.1145/3528535.3565241"
-    quartil:
   - title: "MLLess: Achieving cost efficiency in serverless machine learning training"
     url: "https://doi.org/10.1016/j.jpdc.2023.104764"
     journal-conf: "Journal of Parallel and Distributed Computing"
@@ -174,7 +171,6 @@ publications:
     year: "2023" 
     authors: "P. Gimeno Sarroca and M. Sánchez-Artigas"
     doi: "10.48550/arXiv.2206.05786"
-    quartil:
   - title: "Exhaustive Variant Interaction Analysis using Multifactor Dimensionality Reduction"
     url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10602162/"
     journal-conf: "Nature Scientific Reports"
@@ -182,7 +178,6 @@ publications:
     year: "2023" 
     authors: "Gonzalo Gómez- Sánchez, Ignasi Morán, Lorena Alonso, Miguel Ángel Pérez, David Torrents, Josep Ll. Berral"
     doi: "10.21203/rs.3.rs-3401025"
-    quartil:
   - title: "Novel Approaches Toward Scalable Composable Workflows in Hyper-Heterogeneous Computing Environments"
     url: "https://doi.org/10.1145/3624062.3626283"
     journal-conf: "Supercomputing23 – SC23"
@@ -190,7 +185,6 @@ publications:
     year: "2023" 
     authors: "Kica,P., Lichołai S., Malawski M"
     doi: "10.1145/3624062.3626283"
-    quartil:
   - title: "SinClave: Hardware-assisted Singletons for TEEs"
     url: "https://dl.acm.org/doi/abs/10.1145/3590140.3629107"
     journal-conf: "Middleware'23: Proceedings of the 24th International Middleware Conference"
@@ -198,7 +192,6 @@ publications:
     year: "2023" 
     authors: "Franz Gregor, Robert Krahn, Do Le Quoc, Christof Fetzer"
     doi: "10.1145/3590140.3629107"
-    quartil:
   - title: "A Last-Level Defense for Application Integrity and Confidentiality"
     url: "https://arxiv.org/abs/2311.06154"
     journal-conf: "Middleware '23: Proceedings of the 24th International Middleware Conference"
@@ -206,7 +199,6 @@ publications:
     year: "2023" 
     authors: "Ardhi Putra Pratama Hartono, Andrey Brito, Christof Fetzer"
     doi: "10.1145/3603166.3632127"
-    quartil:
   - title: "Trustworthy confidential virtual machines for the masses"
     url: "https://dl.acm.org/doi/10.1145/3590140.3629124"
     journal-conf: "Middleware '23: Proceedings of the 24th International Middleware Conference"
@@ -214,7 +206,6 @@ publications:
     year: "2023" 
     authors: "Anna Galanou, Khushboo Bindlish, Luca Preibsch, Yvonne-Anne Pignolet, Christof Fetzer, Rüdiger Kapitza"
     doi: "10.1145/3590140.3629124"
-    quartil:
   - title: "Glider: Serverless Ephemeral Stateful Near-Data Computation"  
     url: "https://dl.acm.org/doi/10.1145/3590140.3629119"
     journal-conf: "Middleware '23: Proceedings of the 24th International Middleware Conference"
@@ -222,7 +213,6 @@ publications:
     year: "2024" 
     authors: "Daniel Barcelona-Pons, Pedro García-López, Bernard Metzler"
     doi: "10.1145/3590140.3629119"
-    quartil:
   - title: "Practical Storage-Compute Elasticity for Stream Data Processing"
     url: "https://dl.acm.org/doi/10.1145/3626562.3626828"
     journal-conf: "Middleware '23: Proceedings of the 24th International Middleware Conference"
@@ -230,7 +220,6 @@ publications:
     year: "2023" 
     authors: "Raúl Gracia-Tinedo, Brian Zhou, Yimin Xiong, Luis Liu"
     doi: "10.1145/3626562.3626828"
-    quartil:
   - title: "Pravega: A Tiered Storage System for Data Streams"
     url: "https://dl.acm.org/doi/10.1145/3590140.3629113"
     journal-conf: "Middleware '23: Proceedings of the 24th International Middleware Conference"
@@ -238,7 +227,6 @@ publications:
     year: "2023" 
     authors: "Raúl Gracia-Tinedo, Flavio Junqueira, Tom Kaitchuck, Sachin Joshi"
     doi: "10.1145/3590140.3629113"
-    quartil:
   - title: "Scaling a Variant Calling Genomics Pipeline with FaaS"
     url: "https://dl.acm.org/doi/10.1145/3631295.3631403"
     journal-conf: "WoSC '23: Proceedings of the 9th International Workshop on Serverless Computing"
@@ -246,7 +234,6 @@ publications:
     year: "2023" 
     authors: "Aitor Arjona, Arnau Gabriel-Atienza, Sara Lanuza-Orna, Xavier Roca-Canals, Ayman Bourramouss, Tyler K. Chafin, Lucio Marcello, Paolo Ribeca, Pedro García-López"
     doi: "10.48550/arXiv.2312.07090"
-    quartil:
   - title: "The Nanoservices Framework: Co-locating Microservices in the Cloud-Edge Continuum"
     url: "https://ieeexplore-ieee-org.sabidi.urv.cat/stamp/stamp.jsp?tp=&arnumber=10355592"
     journal-conf: "IEEE ICNP'23"
@@ -254,7 +241,6 @@ publications:
     year: "2023" 
     authors: "Eric Caron, Raúl Gracia-Tinedo"
     doi: "10.1109/ICNP59255.2023.10355592"
-    quartil:
   - title: "METASPACE-ML: Metabolite annotation for imaging mass spectrometry using machine learning"
     url: "https://www.biorxiv.org/content/10.1101/2023.05.29.542736v2"
     journal-conf: "bioRxiv"
@@ -262,7 +248,6 @@ publications:
     year: "2024" 
     authors: "Bishoy Wadie, Lachlan Stuart, Christopher M. Rath, Theodore Alexandrov"
     doi: "10.1101/2023.05.29.542736v2"
-    quartil:
   - title: "One model to use them all: Training a segmentation model with complementary datasets"
     url: "https://arxiv.org/pdf/2402.19340"
     journal-conf: "IPCAI24"
@@ -270,7 +255,6 @@ publications:
     year: "2024" 
     authors: "Alexander C. Jenke, Sebastian Bodenstedt, Fiona R. Kolbinger, Marius Distler, Jürgen Weitz, Stefanie Speidel"
     doi: "10.48550/arXiv.2402.19340"
-    quartil:
   - title: "Exploiting inherent elasticity of serverless in algorithms with unbalanced and irregular workloads"
     url: "https://doi.org/10.1016/j.jpdc.2024.104891"
     journal-conf: "Journal of Parallel and Distributed Computing"
@@ -278,7 +262,6 @@ publications:
     year: "2024" 
     authors: "Gerard Finol, Pedro Garcia Lopez and M. Sánchez-Artigas"
     doi: "10.48550/arXiv.2206.15321"
-    quartil:
   - title: "Serverless End Game: Disaggregation enabling Transparency"
     url: "https://dl.acm.org/doi/10.1145/3642977.3652094"
     journal-conf: "SESAME '24"
@@ -286,7 +269,6 @@ publications:
     year: "2024" 
     authors: "Pedro Garcia Lopez, Aleksander Slominski, Bernard Metzler, Michael Berhendt, Simon Shillaker"
     doi: "10.1145/3642977.3652094"
-    quartil:
   - title: "The many faces of locality in Big Data Analytics. Springer Handbook of Data Engineering (pending link)"
     url: "#"
     journal-conf:
@@ -294,7 +276,6 @@ publications:
     year: "2024" 
     authors:
     doi:
-    quartil:
   - title: "Dataplug: Cloud-aware Unstructured Data Management for Scientific Cloud Computing (pending link)"
     url: "#"
     journal-conf:
@@ -302,15 +283,13 @@ publications:
     year: "2024" 
     authors:
     doi:
-    quartil:
-  - title: "CRISP: Confidentiality, Rollback, and Integrity Storage Protection for Confidential Stateful Computing (pending link)"
-    url: "#" 
-    journal-conf:   
+  - title: "CRISP: Confidentiality, Rollback, and Integrity Storage Protection for Confidential Stateful Computing"
+    url: "https://arxiv.org/abs/2408.06822" 
+    journal-conf: "2024 IEEE 17th International Conference on Cloud Computing (CLOUD)"  
     type: "Publication in conference proceeding/workshop"
     year: "2024" 
-    authors:
-    doi:
-    quartil:
+    authors: "Ardhi Putra Pratama Hartono, Andrey Brito, Christof Fetzer"
+    doi: "10.48550/arXiv.2408.06822"
   - title: "Serverful Functions: Leveraging Servers in Complex Serverless Workflows (industry track) (pending link)"
     url: "#" 
     journal-conf:
@@ -318,7 +297,6 @@ publications:
     year: "2024" 
     authors:
     doi:
-    quartil:
   - title: "StreamSense: Policy-driven Semantic Video Search in Streaming Systems (pending link)"
     url: "#" 
     journal-conf: 
@@ -326,7 +304,6 @@ publications:
     year: "2024" 
     authors:
     doi:
-    quartil:
   - title: "Exploring Secure and Efficient Temporary Data Sharing between co-located Kubernetes Containers (pending link)"
     url: "#"
     journal-conf:
@@ -334,7 +311,20 @@ publications:
     year: "2024" 
     authors:
     doi:
-    quartil:
+  - title: "Dataplug: Unlocking extreme data analytics with on-the-fly dynamic partitioning of unstructured data"
+    url: "https://zenodo.org/records/14161823" 
+    journal-conf: "2024 IEEE 24th International Symposium on Cluster, Cloud and Internet Computing (CCGrid)"
+    type: "Publication in conference proceeding/workshop"
+    year: "2024" 
+    authors: "Arjona, Aitor; Garcia-Lopez, Pedro; Barcelona-Pons, Daniel"
+    doi: "10.5281/zenodo.14161769" 
+  - title: "Optimizing STAR Aligner for High Throughput Computing in the Cloud"
+    url: "https://arxiv.org/abs/2409.05886"
+    journal-conf: "Cluster2024"
+    type: "Publication in conference proceeding/workshop"
+    year: "2024" 
+    authors: "Piotr Kica, Sabina Lichołai, Michał Orzechowski, Maciej Malawski"
+    doi: "10.48550/arXiv.2409.05886"
 
        
 news:
