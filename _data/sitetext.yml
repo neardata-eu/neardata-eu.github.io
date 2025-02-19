@@ -132,6 +132,9 @@ results:
 other:
   title: Information
   information:
+    - title: DataNexus in Future-Ready event
+      subtitle: On-Demand Solutions with AI, Data, and Robotics
+      file: assets/img/datanexus/DataNexus_Future-Ready.pdf
     - title: EBDVF24 press release
       subtitle: DataNexus in European Big Data Value Forum (EBDVF24)
       file: assets/img/datanexus/DataNexus_EBDVF24_press_release.pdf
