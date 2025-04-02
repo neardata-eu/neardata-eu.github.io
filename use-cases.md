@@ -5,7 +5,16 @@ background: grey
 
 <div class="col-lg-12 text-center mb-4">
 	<h2 class="section-heading text-uppercase">Use cases</h2>
-    <img src="assets/img/NEARDATA_Use_Cases.png" alt="Use Cases" width="50%">
+    <p><img src="assets/img/use_cases/NEARDATA_Use_Cases.png" alt="Use Cases"></p>
+</div>
+
+<div>
+<4>Use cases objectives:</h4>
+<ul>
+    <li>Optimize Use Case workloads using machine learning techniques.</li>
+    <li>Validate the platform in Genomics, Metabolomics, and Surgery use cases with complex pipelines involving data connectors</li>
+    <li>Create and validate open libraries of data connectors in the different use cases.</li>
+</ul>
 </div>
 
 <br/>
@@ -38,6 +47,27 @@ genomic variants and other environmental factors. During the last decades, the g
 <h6>USE CASE 3. Genomics Use Case</h6>
 <p>This use case is based on variant calling to identify variants from reference genome sequences. We discuss that this type of data is extreme due to the extreme volume of data and extensive pipelines that require. large computational resources to cope with the demands needed to process and analyze this data. The objective of this use case is to port a genomics Variant calling workflow from our HPC implementation to a serverless architecture that allows processing and analyzing extreme genomic data at large scales.</p>
 
+<p><h4>Variant Calling Pipeline (UKHS):</h4>
+<ul>
+    <li>Dataplug reduces data transfers by 200%.</li> 
+    <li>Lithops version is x37.46 faster than HPC version.</li> 
+</ul>
+<h4>Transcriptomics Atlas Use Case (SANO):</h4>
+<ul>
+    <li>Resource optimization reduces compute cost by 50%.</li> 
+    <li>Confidential computing with SCONE. </li> 
+</ul>
+<h4>Genomics Epistasis Use Case (BSC): </h4>
+<ul>
+    <li>MPI version is x5 faster than Apache Spark version.</li> 
+    <li>HPC Data Connector improves performance by x2.1.</li> 
+    <li>Resource Auto-scaling with Lithops.</li> 
+</ul>
+<p><img src="assets/img/use_cases/NEARDATA_Metabolomics_Use_Case.png" alt="Metabolomics Use Case"></p>
+</p>
+
+
+
 <br/>
 <div class="col-lg-12 text-center mb-4">
 <span class="fa-stack fa-4x">
@@ -52,8 +82,21 @@ genomic variants and other environmental factors. During the last decades, the g
 containing in the order of 104 dimensions representing abundances of different molecules. A key problem in spatial metabolomics is the metabolite identification or associating the spectral dimensions with specific metabolites they can represent. The individual spatial metabolomics datasets have large sizes, ranging from 1 to 100 GB per tissue section.</p>
 
 <p>In this project, we aim to further improve the open METASPACE cloud platform and strengthen its position as a International Health Data Space.</p>
-<p><img src="assets/img/NEARDATA_Metaspace.png" alt="METASPACE" width="50%">
-The overview of the METASPACE cloud platform engine and International Data Space outlining key functionality and types of usage. </p>
+<p>The overview of the METASPACE cloud platform engine and International Data Space outlining key functionality and types of usage.</p>
+<p><img src="assets/img/use_cases/NEARDATA_Metaspace.png" alt="METASPACE"></p>
+
+<p><h4>Metabolomics Use Case (EMBL): </h4>
+<ul>
+    <li>Dataplug offers partitioning strategies for metabolomics data formats (ImzML).</li>
+    <li>Resource auto-scaling with Lithops (Datasets from under 1GB to 20GB).</li>
+    <li>Confidential computing with SCONE.</li>
+    <li>The ML-based metabolite identification is already available to users in the production version of METASPACE and is already used by METASPACE users. </li> 
+</ul>
+<p><img src="assets/img/use_cases/NEARDATA_Metabolomics_Use_Case.png" alt="Metabolomics Use Case"></p>
+</p>
+
+
+
 <br/>
 <div class="col-lg-12 text-center mb-4">
 <span class="fa-stack fa-4x">
@@ -67,6 +110,15 @@ The overview of the METASPACE cloud platform engine and International Data Space
 <p>Our use case in surgery encompasses two distinct focal points. Firstly, we address the challenges inherent in Federated Learning, with a primary objective of improving its security protections. To achieve this, we leverage the Flower framework, enclosing its functionalities within a Docker container for streamlined deployment and management. Additionally, we integrate <a href="https://scontain.com/" target="_blank">Scone</a> to ensure security, ensuring the preservation of privacy throughout the Federated Learning processes.</p>
 
 <p>Secondly, we embark on the development of a surgical video streaming application to handle multiple inference jobs. Our strategy revolves around the integration of <a href="https://cncf.pravega.io/" target="_blank">Pravega</a> and GStreamer into our existing pipelines. This integration empowers us to harness the advanced processing capabilities offered by GStreamer plugins, including our developed segmentation, phase detection, and tool detection plugins. Furthermore, by integrating both GStreamer and Pravega into our infrastructure, we establish a robust ecosystem that contributes to efficient data collection, processing, and storage within the context of surgical video streaming.</p>
+
+<p><h4>Surgery Use Case (NCT): </h4>
+<ul>
+    <li>Pravega reduces end-to-end IO latency by 45%.</li>
+    <li>Confidential computing with SCONE.</li>
+    <li>Combined deployment and data management time for video analytics is reduced by 50%.</li> 
+</ul>
+<p><img src="assets/img/use_cases/NEARDATA_Surgery_Use_Case.png" alt="Metabolomics Use Case"></p>
+</p>
 
 <a href="/assets/deliverables/NEARDATA_D5.1_Public.pdf" target="_blank">Learn more about our use cases in D.5.1</a>
 
