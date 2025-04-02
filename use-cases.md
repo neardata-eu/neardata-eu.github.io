@@ -5,6 +5,7 @@ background: grey
 
 <div class="col-lg-12 text-center mb-4">
 	<h2 class="section-heading text-uppercase">Use cases</h2>
+    <img src="assets/img/NEARDATA_Use_Cases.png" alt="Use Cases" width="50%">
 </div>
 
 <br/>
@@ -51,7 +52,8 @@ genomic variants and other environmental factors. During the last decades, the g
 containing in the order of 104 dimensions representing abundances of different molecules. A key problem in spatial metabolomics is the metabolite identification or associating the spectral dimensions with specific metabolites they can represent. The individual spatial metabolomics datasets have large sizes, ranging from 1 to 100 GB per tissue section.</p>
 
 <p>In this project, we aim to further improve the open METASPACE cloud platform and strengthen its position as a International Health Data Space.</p>
-
+<p><img src="assets/img/NEARDATA_Metaspace.png" alt="METASPACE" width="50%">
+The overview of the METASPACE cloud platform engine and International Data Space outlining key functionality and types of usage. </p>
 <br/>
 <div class="col-lg-12 text-center mb-4">
 <span class="fa-stack fa-4x">
