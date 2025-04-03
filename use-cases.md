@@ -5,7 +5,14 @@ background: grey
 
 <div class="col-lg-12 text-center mb-4">
 	<h2 class="section-heading text-uppercase">Use cases</h2>
-    <p><img src="assets/img/use_cases/NEARDATA_Use_Cases.png" alt="Use Cases" width="80%"></p>
+</div>
+
+<div class="col-lg-12 text-center mb-4">
+<span class="fa-stack fa-4x">
+    <i class="fas fa-circle fa-stack-2x text-primary"></i> <i class="fas fa-circle fa-stack-2x text-primary"></i>
+    <i class="fa fa-dna fa-stack-1x fa-inverse"></i> <i class="fa fa-flask fa-stack-1x fa-inverse"></i>
+</span>
+<h3><a id="genomics">Genomics</a> <a id="meta">Metabolomics</a></h3>
 </div>
 
 <div>
@@ -17,13 +24,17 @@ background: grey
 </ul>
 </div>
 
+<div class="col-lg-12 text-center mb-4">
+    <p><img src="assets/img/use_cases/NEARDATA_Use_Cases.png" alt="Use Cases" width="80%"></p>
+</div>
+
 <br/>
 <div class="col-lg-12 text-center mb-4">
 <span class="fa-stack fa-4x">
     <i class="fas fa-circle fa-stack-2x text-primary"></i>
     <i class="fa fa-dna fa-stack-1x fa-inverse"></i>
 </span>
-<h3>Genomics</h3>
+<h3 id="genomics">Genomics</h3>
 <h5>Creation of methods, fast storage, and communications infrastructures to communicate distributed computing power with scalable storage systems, allowing efficient distribution of datasets across the system.</h5>
 </div>
 <h6>USE CASE 1. Variants-Interactions Use Case</h6>
@@ -75,7 +86,7 @@ genomic variants and other environmental factors. During the last decades, the g
     <i class="fas fa-circle fa-stack-2x text-primary"></i>
     <i class="fa fa-flask fa-stack-1x fa-inverse"></i>
 </span>
-<h3>METABOLOMICS</h3>
+<h3 id="meta">METABOLOMICS</h3>
 <h5>Expand the analysis of metabolomics raw data and boost external access and efficient re-use of open data. Creation of federated and Hybrid distributed architecture and ensuring data privacy but also shared global computations.</h5>
 </div>
 <h6>USE CASE 1. Metabolomics Use Case</h6>
@@ -84,7 +95,10 @@ containing in the order of 104 dimensions representing abundances of different m
 
 <p>In this project, we aim to further improve the open METASPACE cloud platform and strengthen its position as a International Health Data Space.</p>
 <p>The overview of the METASPACE cloud platform engine and International Data Space outlining key functionality and types of usage:</p>
+
+<div class="col-lg-12 text-center mb-4">
 <p><img src="assets/img/use_cases/NEARDATA_Metaspace.png" alt="METASPACE" width="80%"></p>
+</div>
 
 <p>
 <h6>OBJECTIVES. Metabolomics Use Case (EMBL): </h6>
