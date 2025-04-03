@@ -7,14 +7,6 @@ background: grey
 	<h2 class="section-heading text-uppercase">Use cases</h2>
 </div>
 
-<div class="col-lg-12 text-center mb-4">
-<span class="fa-stack fa-4x">
-    <i class="fas fa-circle fa-stack-2x text-primary"></i> <i class="fas fa-circle fa-stack-2x text-primary"></i>
-    <i class="fa fa-dna fa-stack-1x fa-inverse"></i> <i class="fa fa-flask fa-stack-1x fa-inverse"></i>
-</span>
-<h3><a id="genomics">Genomics</a> <a id="meta">Metabolomics</a></h3>
-</div>
-
 <div>
 <h4>Use cases objectives:</h4>
 <ul>
@@ -25,19 +17,19 @@ background: grey
 </div>
 
 <div class="col-lg-12 text-center mb-4">
-    <p><img src="assets/img/use_cases/NEARDATA_Use_Cases.png" alt="Use Cases" width="80%"></p>
+    <p><img src="assets/img/use_cases/NEARDATA_Use_Cases.png" alt="Use Cases" width="90%"></p>
 </div>
 
-<br/>
+<br/> 
 <div class="col-lg-12 text-center mb-4">
 <span class="fa-stack fa-4x">
     <i class="fas fa-circle fa-stack-2x text-primary"></i>
     <i class="fa fa-dna fa-stack-1x fa-inverse"></i>
 </span>
-<h3 id="genomics">Genomics</h3>
+<h3>Genomics</h3>
 <h5>Creation of methods, fast storage, and communications infrastructures to communicate distributed computing power with scalable storage systems, allowing efficient distribution of datasets across the system.</h5>
 </div>
-<h6>USE CASE 1. Variants-Interactions Use Case</h6>
+<h5>USE CASE 1. Variants-Interactions Use Case</h5>
 <p>Complex diseases, such as Type 2 Diabetes (T2D), are caused by the simultaneous effect of multiple
 genomic variants and other environmental factors. During the last decades, the genomic study of T2D has been broadly approached with diverse methods. However, although hundreds of genomic variants are expected to contribute to disease development, the study of the relation between variants and T2D has been only analyzed in a single independent manner. There are different reasons to avoid this type of analysis. Among them, the analysis of variant interactions and their contribution to developing the disease is an extreme computational problem. Indeed, here we present two use cases where we tackle this type of analysis with different methods:</p>
 <ul>
@@ -46,7 +38,7 @@ genomic variants and other environmental factors. During the last decades, the g
 </ul>
 
 
-<h6>USE CASE 2. Transcriptomics Use Case</h6>
+<h5>USE CASE 2. Transcriptomics Use Case</h5>
 <p>This use case is divided into two main experiments, which can be seen as different use cases given each present different problems and uses different datasets. Such experiments are:</p>
 
 <ol>
@@ -55,7 +47,7 @@ genomic variants and other environmental factors. During the last decades, the g
 </ol>
 
 
-<h6>USE CASE 3. Genomics Use Case</h6>
+<h5>USE CASE 3. Genomics Use Case</h5>
 <p>This use case is based on variant calling to identify variants from reference genome sequences. We discuss that this type of data is extreme due to the extreme volume of data and extensive pipelines that require. large computational resources to cope with the demands needed to process and analyze this data. The objective of this use case is to port a genomics Variant calling workflow from our HPC implementation to a serverless architecture that allows processing and analyzing extreme genomic data at large scales.</p>
 
 <p><h6>OBJECTIVES:</h6>
@@ -75,21 +67,23 @@ genomic variants and other environmental factors. During the last decades, the g
     <li>HPC Data Connector improves performance by x2.1.</li> 
     <li>Resource Auto-scaling with Lithops.</li> 
 </ul>
-<p><img src="assets/img/use_cases/NEARDATA_Genomics_Use_Case.png" alt="Metabolomics Use Case" width="60%"> </p>
+<div class="col-lg-12 text-center mb-4">
+<p><img src="assets/img/use_cases/NEARDATA_Genomics_Use_Case.png" alt="Genomics Use Case" width="70%"> </p>
+</div>
 </p>
 
 
 
-<br/>
+<br/> <br/>
 <div class="col-lg-12 text-center mb-4">
 <span class="fa-stack fa-4x">
     <i class="fas fa-circle fa-stack-2x text-primary"></i>
     <i class="fa fa-flask fa-stack-1x fa-inverse"></i>
 </span>
-<h3 id="meta">METABOLOMICS</h3>
+<h3>METABOLOMICS</h3>
 <h5>Expand the analysis of metabolomics raw data and boost external access and efficient re-use of open data. Creation of federated and Hybrid distributed architecture and ensuring data privacy but also shared global computations.</h5>
 </div>
-<h6>USE CASE 1. Metabolomics Use Case</h6>
+<h5>USE CASE 1. Metabolomics Use Case</h5>
 <p>In this use case, we contribute to improving <a href="https://metaspace2020.eu/" target="_blank">METASPACE</a>, a cloud platform for spatial metabolomics. Spatial metabolomics is a bioanalytical technology for spatially-resolved detection of metabolites, lipids, drugs and other molecules in tissue sections used in biology, medicine, and pharmacology. Spatial metabolomics generates large datasets because for each pixel it produces a mass spectrum
 containing in the order of 104 dimensions representing abundances of different molecules. A key problem in spatial metabolomics is the metabolite identification or associating the spectral dimensions with specific metabolites they can represent. The individual spatial metabolomics datasets have large sizes, ranging from 1 to 100 GB per tissue section.</p>
 
@@ -97,7 +91,7 @@ containing in the order of 104 dimensions representing abundances of different m
 <p>The overview of the METASPACE cloud platform engine and International Data Space outlining key functionality and types of usage:</p>
 
 <div class="col-lg-12 text-center mb-4">
-<p><img src="assets/img/use_cases/NEARDATA_Metaspace.png" alt="METASPACE" width="80%"></p>
+<p><img src="assets/img/use_cases/NEARDATA_Metaspace.png" alt="METASPACE" width="90%"></p>
 </div>
 
 <p>
@@ -108,12 +102,14 @@ containing in the order of 104 dimensions representing abundances of different m
     <li>Confidential computing with SCONE.</li>
     <li>The ML-based metabolite identification is already available to users in the production version of METASPACE and is already used by METASPACE users. </li> 
 </ul>
+<div class="col-lg-12 text-center mb-4">
 <p><img src="assets/img/use_cases/NEARDATA_Metabolomics_Use_Case.png" alt="Metabolomics Use Case" width="60%"></p>
+</div>
 </p>
 
 
 
-<br/>
+<br/> <br/>
 <div class="col-lg-12 text-center mb-4">
 <span class="fa-stack fa-4x">
     <i class="fas fa-circle fa-stack-2x text-primary"></i>
@@ -134,10 +130,13 @@ containing in the order of 104 dimensions representing abundances of different m
     <li>Confidential computing with SCONE.</li>
     <li>Combined deployment and data management time for video analytics is reduced by 50%.</li> 
 </ul>
+<div class="col-lg-12 text-center mb-4">
 <p><img src="assets/img/use_cases/NEARDATA_Surgery_Use_Case.png" alt="Metabolomics Use Case" width="60%"></p>
-</p>
+</p> 
+</div>
 
-<a href="/assets/deliverables/NEARDATA_D5.1_Public.pdf" target="_blank">Learn more about our use cases in D.5.1</a>
+<a href="/assets/deliverables/NEARDATA_D5.1_Public.pdf" target="_blank"><h5>Learn more about our use cases in D.5.1</h5></a>
+<a href="/assets/kpi/NEARDATA-WP5-KPI.pdf" target="_blank"><h5>KPI use cases</h5></a>
 
 <br/>
 <br/>
