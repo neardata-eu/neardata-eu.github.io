@@ -114,25 +114,25 @@ results:
       subtitle: NEARDATA Architecture Specs and Early Prototypes
       file: ../assets/deliverables/NEARDATA_D2.2_Public.pdf
     - title: Deliverable 2.3
-      subtitle: Reference implementation of architectural building blocks
+      subtitle: Reference implementation of architectural building blocks*
       file: ../assets/deliverables/NEARDATA_D2.3_Public.pdf
     - title: Deliverable 3.1
       subtitle: XtremeHub first release and documentation
       file: ../assets/deliverables/NEARDATA_D3.1_Public.pdf
     - title: Deliverable 3.2
-      subtitle: XtremeHub Reference Implementation
+      subtitle: XtremeHub Reference Implementation*
       file: ../assets/deliverables/NEARDATA_D3.2_Public.pdf
     - title: Deliverable 4.1
       subtitle: Data Broker release and documentation
       file: ../assets/deliverables/NEARDATA_D4.1_Public.pdf
     - title: Deliverable 4.2
-      subtitle: Data Broker Reference Implementation
+      subtitle: Data Broker Reference Implementation*
       file: ../assets/deliverables/NEARDATA_D4.2_Public.pdf
     - title: Deliverable 5.1
       subtitle: First release of KPI benchmarks in all use cases and data connector libraries
       file: ../assets/deliverables/NEARDATA_D5.1_Public.pdf
     - title: Deliverable 5.2
-      subtitle: Final Validation in International Health Data Spaces
+      subtitle: Final Validation in International Health Data Spaces*
       file: ../assets/deliverables/NEARDATA_D5.2_Public.pdf
     - title: Deliverable 6.1
       subtitle: Communication plan
