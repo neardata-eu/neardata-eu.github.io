@@ -354,13 +354,6 @@ publications:
     year: "2024" 
     authors: "Gracia-Tinedo, Raul; Junqueira, Flavio; Kaitchuck, Tom"
     doi: "10.1145/3700824.3701099"
-  - title: "The many faces of locality in Big Data Analytics. Springer Handbook of Data Engineering (pending link)"
-    url: "#"
-    journal-conf:
-    type: "Publication in conference proceeding/workshop"
-    year: "2024" 
-    authors:
-    doi:
   - title: "Serverless Data Analytics (Finally) Bridging the Gap: Introducing the Ortzi Dataframe"
     url: "https://zenodo.org/records/17701352"
     journal-conf: "IEEE 17th International Conference on Cloud Computing (CLOUD)"
