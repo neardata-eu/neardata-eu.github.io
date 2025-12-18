@@ -659,11 +659,11 @@ review:
 final_review:
   events:
     - time: "10:00"
-      subject: Private meeting, reviewers and PO
+      subject: "Private meeting, reviewers and PO"
       duration: 30 mins
       lead: PO
     - time: "10:30"
-      subject: Welcome – Presentation of Participants
+      subject: "Welcome – Presentation of Participants"
       duration: 15 mins
       lead: Coordinator
     - time: "10:45"
@@ -732,7 +732,7 @@ final_review:
       duration: 10 mins
       lead: PO
     - time: "16:25"
-      subject: Private meeting: reviewers and PO
+      subject: "Private meeting: reviewers and PO"
       duration: 30 mins
       lead: PO
     - time: "16:55"
@@ -743,8 +743,7 @@ final_review:
       subject: End of Review
       duration: 
       lead:
-
-  # --- El resto de secciones se mantienen igual que en la review anterior por ahora ---
+  
   slides:
     - title: Project Overview
       link: "https://docs.google.com/presentation/d/1wwV8kzLzPmJp2Pdh0Zkfn8Bgbd_f86EE/edit?usp=sharing&ouid=107087671061201658185&rtpof=true&sd=true"
