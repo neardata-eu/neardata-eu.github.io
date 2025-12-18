@@ -65,7 +65,7 @@ __Chair__: Pedro García López (Coordinator)
 </div>
 
 
-#### Deliverables (pending approval)
+#### Project Deliverables
 <div class="col-lg-12 text-center mt-4 mb-4">
 	<table class="table table-striped" style="text-align: left">
 		<thead>
@@ -75,14 +75,17 @@ __Chair__: Pedro García López (Coordinator)
 			</tr>
 		</thead>
 		<tbody>
-			{% for deliverable in site.data.sitetext.results.deliverables %}
+			{% for deliverable in site.data.sitetext.final_review.deliverables %}
 			<tr>
-				<td>{{ deliverable.title }}</td>
+				<td>
+                    {{ deliverable.title }} - {{ deliverable.subtitle }}
+                </td>
 				<td><a href="{{ deliverable.file }}"><i class="fas fa-external-link-alt"></i></a></td>
 			</tr>
 			{% endfor %}
 		</tbody>
 	</table>
+    <p class="text-muted" style="font-size: 0.9em; text-align: left;">* Marked deliverables are pending approval.</p>
 </div>
 
 
