@@ -96,6 +96,7 @@ __Chair__: Pedro García López (Coordinator)
 			<tr>
 				<th>Name</th>
 				<th>Link</th>
+				<th>DOI</th>
 			</tr>
 		</thead>
 		<tbody>
@@ -103,6 +104,7 @@ __Chair__: Pedro García López (Coordinator)
 			<tr>
 				<td>{{ publication.title }}</td>
 				<td><a href="{{ publication.url }}"><i class="fas fa-external-link-alt"></i></a></td>
+				<td> {% if publication.doi != "" %} <a href="https://doi.org/{{ publication.doi }}">{{ publication.doi }}</a> {% endif %} </td>
 			</tr>
 			{% endfor %}
 		</tbody>
