@@ -14,6 +14,8 @@ nav:
     section: calltoaction
   - title: "Use Cases"
     section: usecases
+  - title: "Impact"
+    url: "/impact/"
   - title: "Results"
     section: results
 #  - title: "Publications"
