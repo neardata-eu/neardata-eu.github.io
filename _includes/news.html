@@ -20,7 +20,7 @@
               <i class="{{ site.data.style.portfolio-icon | default: " fas fa-plus fa-3x" }}"></i>
             </div>
           </div>
-          <img class="img-fluid" src="{{ project.caption.thumbnail }}" alt="">
+          <img class="img-fluid" src="{{ project.caption.thumbnail | relative_url }}" alt="">
         </a>
         <div class="portfolio-caption">
           <h4>{{ project.caption.title }}</h4>

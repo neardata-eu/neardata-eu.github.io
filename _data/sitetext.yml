@@ -8,28 +8,18 @@
 # {{ site.data.ui-text[site.locale].<var_name> | default: 'text' }}
 
 objectives:
+  title: "Objectives"
   text1: |
-    The goal of **NEARDATA** is to create an extreme data infrastructure mediating data flows between Object
-    Storage and Data Analytics platforms across the Compute Continuum. Our novel XtremeDataHub platform
-    is an intermediary data service that intercepts and optimises data flows (S3 API, stream APIs) with highperformance near-data connectors (Cloud/Edge). Finally, our unique Data Broker service will provide secure
-    data access and orchestration of dispersed data sources thanks to TEEs and federated learning architectures.
-    Our NEARDATA platform is a novel technology for data mining of large and dispersed unstructured data sets
-    that can be deployed in the Cloud and in the Edge (HPC, IoT Devices), that leverages advanced AI technologies
-    and offers a novel confidential cybersecurity layer for trusted data computation.
-  image: objectives.png
+    **NEARDATA** aims to build a new data infrastructure that connects data storage and analytics platforms across the Compute Continuum (Cloud and Edge).
+    
+    At the core of the project is **XtremeDataHub**, a platform that improves how data moves between systems, making data processing faster and more efficient. In addition, the **Data Broker** service enables secure data sharing and coordination between distributed data sources.
   text2: |
-    The goals of NEARDATA are the following:
-      - **Provide high-performance near-data processing for Extreme Data Types:** The first objective is to create a
-        novel intermediary data service (XtremeDataHub) providing serverless data connectors that optimize data management operations
-        (partitioning, filtering, transformation, aggregation) and interactive queries (search, discovery, matching,
-        multi-object queries) to efficiently present data to analytics platforms. Our data connectors facilitate a elas-
-        tic data-driven process-then-compute paradigm which significantly reduces data communication on the
-        data interconnect, ultimately resulting in higher overall data throughput.
-      - **Support real-time video streams but also event streams that must be ingested and processed very fast to
-        Object Storage:** The second objective is to seamlessly combine streaming and batch data processing for
-        analytics. To this end, we will develop stream data connectors deployed as stream operators offering very
-        fast stateful computations over low-latency event and video streams.
-      - The third objective is to **create a Data Broker service enabling trustworthy data sharing and confidential orchestration of data pipelines across the Compute Continuum**. We will provide secure data orchestration, transfer, processing and access thanks to Trusted Execution Environments (TEEs) and federated learning architectures.
+    NEARDATA focuses on:
+    
+    *   **Faster data processing:** Reducing unnecessary data movement and improving performance when handling large and complex datasets.
+    *   **Real-time and batch data support:** Enabling efficient processing of both live data (such as video or events) and stored data.
+    *   **Secure data sharing:** Ensuring trusted and confidential data access across different environments.
+  image: "assets/img/objectives.png" 
 
 header:
   title: NearData

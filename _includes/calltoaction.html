@@ -1,18 +1,37 @@
 <section class="page-section" id="calltoaction">
     <div class="container">
-        <div class="row">
-            <div class="col-lg-12 text-center">
-                <h2 class="section-heading">Objectives</h2>
-                <hr class="light">
-                <p class="lead">{{ site.data.sitetext.objectives.text1 | markdownify }}</p>
-                <div class="col-lg-12 text-center">
-                    <div class="pt-5"></div>
-                    <img src="assets/img/{{ site.data.sitetext.objectives.image }}" alt="Neardata architecture" width="60%">
-                    <!-- <figcaption class="text-faded">CLOUDSKIN architecture overview</figcaption> -->
-                    <div class="pt-5"></div>
-                    <div style="text-align: justify;"><p>{{ site.data.sitetext.objectives.text2 | markdownify }}</p></div>
-                    <br/>
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/GmQetMrwCQw?si=UKbZT_aVasf0hi0Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <div class="row align-items-center mb-5">
+            <div class="col-lg-7 text-left">
+                <div class="lead text-muted" style="text-align: left; color: #333;">
+                    {{ site.data.sitetext.objectives.text1 | markdownify }}
+                </div>
+                <div class="text-muted" style="text-align: left;">
+                    {{ site.data.sitetext.objectives.text2 | markdownify }}
+                </div>
+            </div>
+            <div class="col-lg-5 text-center">
+                <img src="{{ site.data.sitetext.objectives.image | relative_url }}" alt="Neardata architecture"
+                    class="img-fluid" style="width: 100%; max-width: 450px; height: auto;">
+            </div>
+        </div>
+
+        <div class="row mt-5">
+            <div class="col-lg-6 mb-4">
+                <div class="embed-responsive embed-responsive-16by9 shadow-lg rounded">
+                    <!-- URL CORREGIDA: se usa embed/ y se añaden permisos -->
+                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/2H08tjaxG8k"
+                        title="NEARDATA Video 1" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                </div>
+            </div>
+            <div class="col-lg-6 mb-4">
+                <div class="embed-responsive embed-responsive-16by9 shadow-lg rounded">
+                    <!-- URL CORREGIDA: ID limpio sin parámetros de búsqueda -->
+                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/GmQetMrwCQw"
+                        title="NEARDATA Video 2" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                 </div>
             </div>
         </div>

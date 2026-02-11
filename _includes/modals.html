@@ -14,12 +14,11 @@
               <!-- news Details Go Here -->
               <h2 class="text-uppercase">{{ news.title }}</h2>
               <p class="item-intro text-muted">{{ news.subtitle }}</p>
-              <img class="img-fluid d-block mx-auto" src="{{ news.image }}" alt="{{ news.alt }}" />
+              <img class="img-fluid d-block mx-auto" src="{{ news.image | relative_url }}" alt="{{ news.alt }}" />
               <p>{{ news.content }}</p>
               <button class="btn btn-primary" data-dismiss="modal" type="button">
                 <i class="fas fa-times"></i>
-                {{ site.data.sitetext[site.locale].portfolio.closebutton |
-                default: "Close news" }}
+                {{ site.data.sitetext[site.locale].portfolio.closebutton | default: "Close news" }}
               </button>
             </div>
           </div>

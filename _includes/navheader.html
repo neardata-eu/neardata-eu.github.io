@@ -3,7 +3,7 @@
   <div class="container">
     <a class="navbar-brand js-scroll-trigger" href="#page-top">
       {%- if site.logo -%}
-      <img height="{{ site.logo.height | default: 52 }}" src="{{ site.logo.path }}" />
+      <img height="{{ site.logo.height | default: 52 }}" src="{{ site.logo.path | relative_url }}" />
       {%- else -%}
       {{ site.title }}
       {%- endif -%}
@@ -16,17 +16,33 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarResponsive">
       <ul class="navbar-nav text-uppercase ml-auto">
-        {% for link in site.data.navigation.nav %}
+        {%- for link in site.data.navigation.nav -%}
+        {% if link.dropdown %}
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown{{ forloop.index }}" role="button"
+            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            {{ link.title }}
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown{{ forloop.index }}">
+            <a class="dropdown-item" href="{{ link.url }}">All Use Cases</a>
+            <div class="dropdown-divider"></div>
+            {% for sublink in link.dropdown %}
+            <a class="dropdown-item" href="{{ sublink.url }}">{{ sublink.title }}</a>
+            {% endfor %}
+          </div>
+        </li>
+        {% else %}
         <li class="nav-item">
           {%- if link.url -%}
-          <a class="nav-link js-scroll-trigger" href="{{ link.url }}">{{ link.title }}</a>
+          <a class="nav-link js-scroll-trigger" href="{{ link.url | relative_url }}">{{ link.title }}</a>
           {%- elsif link.section -%}
-          <a class="nav-link js-scroll-trigger" href="#{{ link.section }}">{{ link.title }}</a>
+          <a class="nav-link js-scroll-trigger" href="{{ site.baseurl }}/#{{ link.section }}">{{ link.title }}</a>
           {%- else -%}
           <a class="nav-link js-scroll-trigger" href="#">{{ link.title }}</a>
           {%- endif -%}
         </li>
-        {% endfor %}
+        {% endif %}
+        {%- endfor -%}
       </ul>
     </div>
   </div>

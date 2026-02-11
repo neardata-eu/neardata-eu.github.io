@@ -13,13 +13,22 @@ nav:
   - title: "Objectives"
     section: calltoaction
   - title: "Use Cases"
-    section: usecases
+    url: "/usecases/"
+    dropdown:
+      - title: "Surgery"
+        url: "/usecases/surgery/"
+      - title: "Metabolomics"
+        url: "/usecases/metabolomics/"
+      - title: "Genomics Epistasis"
+        url: "/usecases/genomics-epistasis/"
+      - title: "Variants Interactions"
+        url: "/usecases/variants-interactions/"
+      - title: "Transcriptomics"
+        url: "/usecases/transcriptomics/"
   - title: "Impact"
     url: "/impact/"
   - title: "Results"
     section: results
-#  - title: "Publications"
-#    section: publications
   - title: "News"
     section: portfolio
   - title: "Partners"
