@@ -1,7 +1,7 @@
 ---
 layout: page
 background: grey
-title: NEARDATA Key Achievements
+title: Final Project Summary
 permalink: /project-summary/
 ---
 
