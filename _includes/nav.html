@@ -18,7 +18,6 @@
         {%- for link in site.data.navigation.nav -%}
         {% if link.dropdown %}
         <li class="nav-item dropdown">
-          <!-- La clase dropdown-toggle y el data-toggle son VITALES -->
           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownInner{{ forloop.index }}" role="button"
             data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
             {{ link.title }}

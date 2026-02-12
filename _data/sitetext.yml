@@ -22,7 +22,7 @@ objectives:
   image: "assets/img/objectives.png" 
 
 header:
-  title: NearData
+  title: NEARDATA
   text: Extreme Near-Data Processing Platform
   button: Learn More
   buttonlink: "https://youtu.be/GmQetMrwCQw?si=ixIN6ewZXDno-9MW"

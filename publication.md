@@ -1,6 +1,8 @@
 ---
 layout: page
+title: Publications
 background: grey
+permalink: /publications/
 ---
 
 <div class="col-lg-12 text-center mb-4">
