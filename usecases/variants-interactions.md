@@ -13,7 +13,7 @@ permalink: /usecases/pathogen-genomics/
     <div class="row justify-content-center mb-5">
         <div class="col-lg-10">
             <div class="embed-responsive embed-responsive-16by9 shadow-lg rounded">
-                <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/2Dze4TlSJNM" title="Variants Interactions Use Case" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/2Dze4TlSJNM" title="Pathogen genomics Use Case" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </div>
         </div>
     </div>
