@@ -950,7 +950,7 @@ final_review:
     - title: FaaStream demo
       video: "https://drive.google.com/file/d/1QQh4iH2NoEKVGBtn30UsFQNG7PTrULAG/view?usp=drive_link"
       slides: "#"
-    - title: From Zero to Cloud in 5 Minutes: Your First Python Script on PyRun
+    - title: "From Zero to Cloud in 5 Minutes: Your First Python Script on PyRun"
       video: "https://www.youtube.com/watch?v=mdHlvXWBmbg"
       slides: "#"
       
