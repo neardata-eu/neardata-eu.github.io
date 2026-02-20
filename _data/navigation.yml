@@ -21,7 +21,7 @@ nav:
         url: "/usecases/metabolomics/"
       - title: "Genomics Epistasis"
         url: "/usecases/genomics-epistasis/"
-      - title: "Variants Interactions"
+      - title: "Pathogen genomics"
         url: "/usecases/variants-interactions/"
       - title: "Transcriptomics"
         url: "/usecases/transcriptomics/"
