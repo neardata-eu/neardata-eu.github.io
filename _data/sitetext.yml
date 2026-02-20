@@ -875,38 +875,37 @@ final_review:
   
   slides:
     - title: Project Overview
-      link: "https://docs.google.com/presentation/d/1wwV8kzLzPmJp2Pdh0Zkfn8Bgbd_f86EE/edit?usp=sharing&ouid=107087671061201658185&rtpof=true&sd=true"
+      link: "https://docs.google.com/presentation/d/19xpsl-HxsV4Z4cLaZntumeTcMwyvBWgA/edit?usp=sharing&ouid=107087671061201658185&rtpof=true&sd=true"
       kpi: "#"
     - title: WP1
-      link: "https://docs.google.com/presentation/d/1ckwzxbZboYmtuBRUrk1f4qW6b_v2VXJu/edit?usp=sharing&ouid=107087671061201658185&rtpof=true&sd=true"
+      link: "https://docs.google.com/presentation/d/1qP1xdAkPIrXp8te6PGMyjXJ1sI_TZIyb/edit?usp=sharing&ouid=107087671061201658185&rtpof=true&sd=true"
       kpi: "#"
     - title: WP2
-      link: "https://docs.google.com/presentation/d/1duw8eHBYSfmSkkRc6vEiRQagx4TVMqaf/edit?usp=sharing&ouid=107087671061201658185&rtpof=true&sd=true"
-      kpi: "assets/kpi/NEARDATA-WP2-KPI.pdf"
+      link: "https://docs.google.com/presentation/d/1gncBQ1fXQyDF0G7ECAv8JeclV0e-yojQ/edit?usp=sharing&ouid=107087671061201658185&rtpof=true&sd=true"
+      kpi: "#"
     - title: WP3
-      link: "https://docs.google.com/presentation/d/1SxzluBW4eeKT-lbSsTh1aPvV_nR_ukMN/edit?usp=drive_link&ouid=107087671061201658185&rtpof=true&sd=true"
-      kpi: "assets/kpi/NEARDATA-WP3-KPI.pdf"
+      link:"https://docs.google.com/presentation/d/1t6tPy1QGpXVUwxda5i527jEImD_kk3Cz/edit?usp=sharing&ouid=107087671061201658185&rtpof=true&sd=true"
     - title: WP4
-      link: "https://docs.google.com/presentation/d/1K-vPBspiC57uqiZWw_oa7wcStv9SCEmY/edit?usp=drive_link&ouid=107087671061201658185&rtpof=true&sd=true"
-      kpi: "assets/kpi/NEARDATA-WP4-KPI.pdf"
+      link: "https://docs.google.com/presentation/d/1lD6yuvd5v9iRtloWKdpDuzCZaM94Su2f2QqsCEhhJf4/edit?usp=sharing"
+      kpi: "#"
     - title: WP5 - Metabolomics Use-Case
-      link: "https://docs.google.com/presentation/d/17UAPFalIH7XwstgHLgoyLVirYTJtH613/edit?usp=sharing&ouid=107087671061201658185&rtpof=true&sd=true"
-      kpi: "assets/kpi/NEARDATA-WP5-KPI.pdf"
+      link: "https://docs.google.com/presentation/d/1IfUXTjCmct0carLFWdu8vP4Nv9RsVNCJ/edit?usp=sharing&ouid=107087671061201658185&rtpof=true&sd=true"
+      kpi: "#"
     - title: WP5 - Transcriptomics Use Case
-      link: "https://docs.google.com/presentation/d/1jUjncVOoA2xzW3F8mp1apmAe3JELrQWN/edit?usp=sharing&ouid=107087671061201658185&rtpof=true&sd=true"
-      kpi: "assets/kpi/NEARDATA-WP5-KPI.pdf"
-    - title: WP5 - Genomics 1
-      link: "https://docs.google.com/presentation/d/1I3OU0_1fk9hY3avBb7_xyICwncSMbdrw/edit?usp=sharing&ouid=107087671061201658185&rtpof=true&sd=true"
-      kpi: "assets/kpi/NEARDATA-WP5-KPI.pdf"
-    - title: WP5 - Genomics 2
-      link: "https://docs.google.com/presentation/d/1dqUkGCmA0xDwRfvV9o-Ifw2-g98DTiLR/edit?usp=sharing&ouid=107087671061201658185&rtpof=true&sd=true"
-      kpi: "assets/kpi/NEARDATA-WP5-KPI.pdf"
+      link: "https://docs.google.com/presentation/d/1YvShcVrWegBkuQBwdAz1g6g374pvwgwz/edit?usp=sharing&ouid=107087671061201658185&rtpof=true&sd=true"
+      kpi: "#"
+    - title: WP5 - Genomics Epistasis
+      link: "https://docs.google.com/presentation/d/1GsZUCqd-X2l-tRbrIEsOLvHlhukP2aZq/edit?usp=sharing&ouid=107087671061201658185&rtpof=true&sd=true"
+      kpi: "#"
+    - title: WP5 - Variants Interactions
+      link: ""
+      kpi: "#"
     - title: WP5 - Surgomics Use Case
-      link: "https://docs.google.com/presentation/d/1p4neeBV4eFUCQagWYQh3VErzjKnIljyR/edit?usp=sharing&ouid=107087671061201658185&rtpof=true&sd=true"
-      kpi: "assets/kpi/NEARDATA-WP5-KPI.pdf"
+      link: "https://docs.google.com/presentation/d/10rXJI_DgAjqSgvKizYEdvrSBKvF-8PNu/edit?usp=sharing&ouid=107087671061201658185&rtpof=true&sd=true"
+      kpi: "#"
     - title: WP6
-      link: "https://drive.google.com/file/d/1wdEIxBMvMA4m20Lb0qSxb2vxY5PH-mWS/view?usp=drive_link"
-      kpi: "assets/kpi/NEARDATA-WP6-KPI.pdf"
+      link: "https://docs.google.com/presentation/d/1uZaNXxxBQKt7Biiv-6Rq51yxhKbFVa0g/edit?usp=sharing&ouid=107087671061201658185&rtpof=true&sd=true"
+      kpi: "#"
 
   videos:
     - title: NEARDATA Project - Extreme Near-Data Processing Platform
