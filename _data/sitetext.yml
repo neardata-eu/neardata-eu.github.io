@@ -939,60 +939,63 @@ final_review:
       link: "#"
 
   artifacts:
-    - title: Lithops
-      description: A multi-cloud framework for big data analytics and embarrassingly parallel jobs. 
-      link: "https://github.com/neardata-eu/lithops-hpc-singularity-and-k8s-backend"
-    - title: METASPACE
-      description: Cloud engine and platform for metabolite annotation for imaging mass spectrometry.
-      link: "https://github.com/metaspace2020/metaspace"
-    - title: Pravega
-      description: Pravega - Streaming as a new software defined storage primitive. 
-      link: "https://github.com/pravega/pravega"
-    - title: SCONE
-      description: All related to SCONE confidentiality support. 
-      link: "https://github.com/neardata-eu/scone-artifacts"
-    - title: Dataplug
-      description: Dataplug is a Python framework for efficiently accessing partitions of unstructured data stored in object storage for elastic workloads in the Cloud 
-      link: "https://github.com/neardata-eu/dataplug"
-    - title: Glider
-      description: Glider ephemeral storage system with in-storage computation. 
-      link: "https://github.com/neardata-eu/glider-store"
-    - title: METASPACE & Lithops
-      description: Lithops-based Serverless implementation of the METASPACE spatial metabolomics annotation pipeline. 
-      link: "https://github.com/metaspace2020/Lithops-METASPACE"
-    - title: Metabolomics Data Space
-      description: International Metabolomics Data Space
-      link: "https://dataplug.eu/"
-    - title: Serverless benchmarks
-      description: Serverless benchmarks 
-      link: "https://github.com/iAmJK44/serverless_benchmarks"
-    - title: Genomics use-case
-      description: Variant calling source code. 
-      link: "https://github.com/neardata-eu/serverless-genomics-variant-calling"
-    - title: Metabolomics use-case
-      description: ML models from Experiment 1. 
-      link: "https://github.com/metaspace2020/metaspace/tree/master/metaspace/scoring-models"
-    - title: Surgery use-case 1
-      description: DefinitiFederated Learning Source Code.ve 
-      link: "https://github.com/neardata-eu/nct_tud_fl_demo"
-    - title: Surgery use-case 2
-      description: Surgical Pravega GStreamer Demo. 
-      link: "https://github.com/neardata-eu/nct_dell_demo_pravega"
-    - title: Transcriptomic Atlas use-case 1
-      description: Federated Learning for Human Genome Variation Analysis. 
-      link: "https://github.com/SanoScience/neardata-fl-for-transcriptomics"
-    - title: Transcriptomic Atlas use-case 2
-      description: Transcriptomic Atlas Pipeline. 
+    - title: GWD Lithops-HPC
+      description: GWD Lithops-HPC genomics repository.
+      link: "https://gitlab.bsc.es/datacentric-computing/lithops-hpc-genomics"
+    - title: MDR MPI
+      description: MPI-based MDR genomics implementation.
+      link: "https://gitlab.bsc.es/datacentric-computing/mpi-genomics-mdr"
+    - title: MDR Lithops-HPC
+      description: MDR example implementation using Lithops-HPC.
+      link: "https://github.com/neardata-eu/lithops-hpc/tree/main/examples/mdr"
+    - title: Lithops-HPC
+      description: Lithops-HPC framework repository.
+      link: "https://github.com/neardata-eu/lithops-hpc"
+    - title: Lithops-HPC user guide
+      description: Examples and user guide for Lithops-HPC.
+      link: "https://gitlab.bsc.es/datacentric-computing/lithops-hpc-examples"
+    - title: Data shuffle connector
+      description: Data shuffle connector implementation.
+      link: "https://github.com/danielBCN/dataplug/tree/filesystem"
+    - title: Auto-scaling connector
+      description: Telemetry forecasting and auto-scaling connector for Lithops.
+      link: "https://gitlab.bsc.es/datacentric-computing/lithops_telemetry_forecasting"
+    - title: Surgery-FL training models
+      description: Federated learning training models for surgical use cases.
+      link: "https://github.com/KirchnerMax/FL-EndoViT"
+    - title: Surgery-FL use case
+      description: MICCAI 2024 FedSurg24 Surgery-FL challenge use case.
+      link: "https://gitlab.com/nct_tso_public/challenges/miccai2024/FedSurg24"
+    - title: Surgery-FL tools
+      description: Tools and snippets for MICCAI 2024 Surgery-FL challenge.
+      link: "https://gitlab.com/nct_tso_public/challenges/miccai2024/snippet"
+    - title: Transcriptomics Atlas
+      description: Transcriptomics Atlas SANO repository.
       link: "https://github.com/neardata-eu/transcriptomics-atlas-sano"
-    - title: Variant - Interactions use-case 1
-      description: MDR use-case source-code integrated with HPC Data Connector. 
-      link: "https://github.com/neardata-eu/MPI-genomics-MDR"
-    - title: Variant - Interactions use-case 2
-      description: MDR use-case with Apache Spark. 
-      link: "https://github.com/neardata-eu/spark-mdr"
-    - title: Video-streaming benchmarks
-      description: Video-streaming benchmarks with Gstreamer and Pravega connectors. 
-      link: "https://github.com/neardata-eu/video-streaming-benchmarks"
+    - title: Salmon pipeline
+      description: Salmonless pipeline repository.
+      link: "https://github.com/Kamilbur/salmonless"
+    - title: Nexus
+      description: Nexus repository by neardata-eu.
+      link: "https://github.com/neardata-eu/nexus"
+    - title: FaaStream
+      description: FaaStream serverless streaming framework.
+      link: "https://github.com/neardata-eu/faastream"
+    - title: METASPACE
+      description: METASPACE project repository.
+      link: "https://github.com/metaspace2020"
+    - title: Lithops-METASPACE
+      description: Lithops integration for METASPACE.
+      link: "https://github.com/metaspace2020/Lithops-METASPACE"
+    - title: DataPlug
+      description: DataPlug data management framework.
+      link: "https://github.com/CLOUDLAB-URV/dataplug/"
+    - title: DataCockpit
+      description: DataCockpit data orchestration platform.
+      link: "https://github.com/ubenabdelkrim/data-cockpit"
+    - title: OffSample
+      description: OffSample repository by METASPACE.
+      link: "https://github.com/metaspace2020/offsample"
 
 about:
   title: "About"
