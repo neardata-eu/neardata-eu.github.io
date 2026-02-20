@@ -46,7 +46,7 @@ permalink: /usecases/
         </div>
         <!-- Pathogen genomics -->
         <div class="col-md-4 mb-5">
-            <a href="/usecases/variants-interactions/" style="text-decoration: none; color: inherit;">
+            <a href="/usecases/pathogen-genomics/" style="text-decoration: none; color: inherit;">
                 <span class="fa-stack fa-4x">
                     <i class="fas fa-circle fa-stack-2x text-primary"></i>
                     <i class="fa fa-project-diagram fa-stack-1x fa-inverse"></i>
