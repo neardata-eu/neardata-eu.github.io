@@ -436,7 +436,7 @@ publications:
     authors: "Lorena Alonso-Parrilla, Miguel Ángel Pérez-Elena, Mohammed Yousef Salem Ali, Maedeh Mashhadikhan, Nicolás Gaitán, Leila Satari, Rodrigo Martín, Anthony Piron, Xavier Farré, Natalia Blay, Lydia Ruiz, Aikaterini Lymperidou, Cecilia Salvoro, Rafael de Cid, Josep Lluís Berral, Juan R González, Ignasi Morán, Miriam Cnop, David Torrents"
     doi: "10.1101/2025.07.24.25332120v1"
   - title: "Lithops-HPC: Extending the Serverless Paradigm to High-Performance Computing for Accessible Resource Management"
-    url: "#"
+    url: "https://dx.doi.org/10.2139/ssrn.6174512"
     journal-conf: "FGCS"
     type: "Article in journal"
     year: "2025" 
@@ -947,7 +947,7 @@ final_review:
     - title: Lithops HPC-Flops MareNostrum 5
       video: "https://drive.google.com/file/d/1dMpJgpfR3IDuiXbynGQHg8poPd-WxBIN/view?usp=drive_link"
       slides: "#"
-    - title: FaaStream demo
+    - title: FaaSTs demo
       video: "https://drive.google.com/file/d/1QQh4iH2NoEKVGBtn30UsFQNG7PTrULAG/view?usp=drive_link"
       slides: "#"
     - title: "From Zero to Cloud in 5 Minutes: Your First Python Script on PyRun"
@@ -975,9 +975,6 @@ final_review:
     - title: Lithops-HPC user guide
       description: Examples and user guide for Lithops-HPC.
       link: "https://gitlab.bsc.es/datacentric-computing/lithops-hpc-examples"
-    - title: Data shuffle connector
-      description: Data shuffle connector implementation.
-      link: "https://github.com/danielBCN/dataplug/tree/filesystem"
     - title: Auto-scaling connector
       description: Telemetry forecasting and auto-scaling connector for Lithops.
       link: "https://gitlab.bsc.es/datacentric-computing/lithops_telemetry_forecasting"
@@ -1017,6 +1014,15 @@ final_review:
     - title: OffSample
       description: OffSample repository by METASPACE.
       link: "https://github.com/metaspace2020/offsample"
+    - title: Serverless-vdb
+      description: Stateless Serverless Vector Database.
+      link: "https://github.com/neardata-eu/serverless-vdb"
+    - title: Serverless-vdb-experiments
+      description: Experimental results, plotting scripts, and generated figures.
+      link: "https://github.com/neardata-eu/serverless-vdb-experiments"
+    - title: Video-stream-indexing
+      description: A policy-driven semantic video search solution that exploits tiered storage in streaming systems.
+      link: "https://github.com/neardata-eu/video-stream-indexing"
 
 about:
   title: "About"
