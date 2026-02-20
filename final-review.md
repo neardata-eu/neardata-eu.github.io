@@ -42,14 +42,14 @@ __Chair__: Pedro García López (Coordinator)
 	</table>
 </div>
 
-#### Review Slides (tentative)
+#### Review Slides
 <div class="col-lg-12 text-center mt-4 mb-4">
 	<table class="table table-striped" style="text-align: left">
 		<thead>
 			<tr>
 				<th>Document</th>
-				<th>PDF</th>
-				<th>KPI</th>
+				<th>File</th>
+				<!-- <th>KPI</th> -->
 			</tr>
 		</thead>
 		<tbody>
@@ -57,7 +57,7 @@ __Chair__: Pedro García López (Coordinator)
 			<tr>
 				<td>{{ item.title }}</td>
 				<td><a href="{{ item.link }}"><i class="fas fa-external-link-alt"></i></a></td>
-				<td> {% if item.kpi != "#" %} <a href="{{ item.kpi }}"><i class="fas fa-external-link-alt"></i></a> {% endif %} </td>
+				<!-- <td> {% if item.kpi != "#" %} <a href="{{ item.kpi }}"><i class="fas fa-external-link-alt"></i></a> {% endif %} </td> -->
 			</tr>
 			{% endfor %}
 		</tbody>
