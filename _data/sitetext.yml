@@ -1002,9 +1002,6 @@ final_review:
     - title: METASPACE
       description: METASPACE project repository.
       link: "https://github.com/metaspace2020"
-    - title: Lithops-METASPACE
-      description: Lithops integration for METASPACE.
-      link: "https://github.com/metaspace2020/Lithops-METASPACE"
     - title: DataPlug
       description: DataPlug data management framework.
       link: "https://github.com/CLOUDLAB-URV/dataplug/"
