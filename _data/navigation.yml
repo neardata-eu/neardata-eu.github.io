@@ -22,7 +22,7 @@ nav:
       - title: "Genomics Epistasis"
         url: "/usecases/genomics-epistasis/"
       - title: "Pathogen genomics"
-        url: "/usecases/variants-interactions/"
+        url: "/usecases/pathogen_genomics/"
       - title: "Transcriptomics"
         url: "/usecases/transcriptomics/"
   - title: "Impact"
