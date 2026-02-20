@@ -44,14 +44,14 @@ permalink: /usecases/
                 <p class="text-muted">Advanced methods for detecting gene interactions.</p>
             </a>
         </div>
-        <!-- Variants Interactions -->
+        <!-- Pathogen genomics -->
         <div class="col-md-4 mb-5">
             <a href="/usecases/variants-interactions/" style="text-decoration: none; color: inherit;">
                 <span class="fa-stack fa-4x">
                     <i class="fas fa-circle fa-stack-2x text-primary"></i>
                     <i class="fa fa-project-diagram fa-stack-1x fa-inverse"></i>
                 </span>
-                <h4 class="service-heading mt-3">Variants Interactions</h4>
+                <h4 class="service-heading mt-3">Pathogen genomics</h4>
                 <p class="text-muted">Analysis of complex variant interactions in genomic data.</p>
             </a>
         </div>
