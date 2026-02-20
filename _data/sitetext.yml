@@ -909,28 +909,49 @@ final_review:
 
   videos:
     - title: NEARDATA Project - Extreme Near-Data Processing Platform
-      video: "https://youtu.be/GmQetMrwCQw?si=ixIN6ewZXDno-9MW"
+      video: "https://www.youtube.com/watch?v=2H08tjaxG8k"
+      slides: "#"
+    - title: NEARDATA Project - Use Case: Transcriptomics
+      video: "https://www.youtube.com/watch?v=WL9qs1feKgU"
+      slides: "#"
+    - title: NEARDATA Project - Use Case: Variants Interactions
+      video: "https://www.youtube.com/watch?v=2Dze4TlSJNM"
+      slides: "#"
+    - title: NEARDATA Project - Use Case: Genomics Epistasis
+      video: "https://www.youtube.com/watch?v=bQfzeTAXsFU"
+      slides: "#"
+    - title: NEARDATA Project - Use Case: Metabolomics
+      video: "https://www.youtube.com/watch?v=lH7EuAj5M2I"
+      slides: "#"
+    - title: NEARDATA Project - Use Case: Surgery
+      video: "https://www.youtube.com/watch?v=_qlivJXrH8c"
       slides: "#"
     - title: METASPACE demo
-      video: "https://oc.embl.de/index.php/s/S396YmnG8i4ErjM"
+      video: "https://drive.google.com/file/d/1u6Lnbma60lpQ0iweUBP4l9ab9iHoFWxl/view?usp=drive_link"
       slides: "#"
-    - title: Pravega streams flink coordinated autoscaling
-      video: "https://drive.google.com/file/d/1lKF3d_jwG9DKZPB-kY-fg3lWZXNE6kHX/view?usp=drive_link"
+    - title: Pravega streamsense demo
+      video: "https://drive.google.com/file/d/14nqqCeEtz2g4LpneNUNRzhfOkcGFpcxh/view?usp=drive_link"
+      slides: "#"
+    - title: FaaStream demo
+      video: "https://drive.google.com/file/d/1ao9RQvTcrMWLUPP7KdoiiEwN4vVG8CFW/view?usp=drive_link"
+      slides: "#"
+    - title: FaaStream KPop demo
+      video: "https://drive.google.com/file/d/1glouVy2uONy_-NK07iPW20PlDpAf4Me8/view?usp=drive_link"
       slides: "#"
     - title: Secure Federeted Learning using SCONE
-      video: "https://drive.google.com/file/d/1pSn9_G8eN9CXTkK0dpQgsLTgwbqvL1I7/view?usp=drive_link"
+      video: "https://drive.google.com/file/d/14rTGuMOzm6eKrtukop-AKQkAcriLZ4o-/view?usp=drive_link"
       slides: "#"
-    - title: Pravega Cluster PoC
-      video: "https://drive.google.com/file/d/1AeYw-YPSkVxz1YSUbSD62hVvlO6hXnfg/view?usp=drive_link"
+    - title: Salmonless PyRun Plain demo
+      video: "https://drive.google.com/file/d/1bpzL1H8NrNpqFNsPpBK427DBiKmeZaAm/view?usp=drive_link"
       slides: "#"
-    - title: KeyCloak for NEARDATA
-      video: "https://drive.google.com/file/d/1u9oWrW1MX5yPEq520K1zMX3RbQoGcKwE/view?usp=sharing"
+    - title: Lithops HPC-Flops MareNostrum 5
+      video: "https://drive.google.com/file/d/1dMpJgpfR3IDuiXbynGQHg8poPd-WxBIN/view?usp=drive_link"
       slides: "#"
-    - title: Lithops Vanilla execution
-      video: "https://drive.google.com/file/d/1X472TJOs1Oq75yg_YANc4u3dsThq1WCc/view?usp=sharing"
+    - title: FaaStream demo
+      video: "https://drive.google.com/file/d/1QQh4iH2NoEKVGBtn30UsFQNG7PTrULAG/view?usp=drive_link"
       slides: "#"
-    - title: Metabolomics pipeline running in run.lithops.cloud online Python notebook
-      video: "https://rovira-my.sharepoint.com/:v:/g/personal/41024390-a_epp_urv_cat/EeQMH0szbSVIlHyVevhSJSIBLYSIk_i741HZpA1dgGP2qg"
+    - title: From Zero to Cloud in 5 Minutes: Your First Python Script on PyRun
+      video: "https://www.youtube.com/watch?v=mdHlvXWBmbg"
       slides: "#"
       
   summaries:
