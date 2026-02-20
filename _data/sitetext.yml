@@ -911,19 +911,19 @@ final_review:
     - title: NEARDATA Project - Extreme Near-Data Processing Platform
       video: "https://www.youtube.com/watch?v=2H08tjaxG8k"
       slides: "#"
-    - title: NEARDATA Project - Use Case: Transcriptomics
+    - title: "NEARDATA Project - Use Case: Transcriptomics"
       video: "https://www.youtube.com/watch?v=WL9qs1feKgU"
       slides: "#"
-    - title: NEARDATA Project - Use Case: Variants Interactions
+    - title: "NEARDATA Project - Use Case: Variants Interactions"
       video: "https://www.youtube.com/watch?v=2Dze4TlSJNM"
       slides: "#"
-    - title: NEARDATA Project - Use Case: Genomics Epistasis
+    - title: "NEARDATA Project - Use Case: Genomics Epistasis"
       video: "https://www.youtube.com/watch?v=bQfzeTAXsFU"
       slides: "#"
-    - title: NEARDATA Project - Use Case: Metabolomics
+    - title: "NEARDATA Project - Use Case: Metabolomics"
       video: "https://www.youtube.com/watch?v=lH7EuAj5M2I"
       slides: "#"
-    - title: NEARDATA Project - Use Case: Surgery
+    - title: "NEARDATA Project - Use Case: Surgery"
       video: "https://www.youtube.com/watch?v=_qlivJXrH8c"
       slides: "#"
     - title: METASPACE demo
