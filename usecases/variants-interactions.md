@@ -2,7 +2,7 @@
 layout: page
 title: Pathogen genomics
 background: grey
-permalink: /usecases/pathogen-genomics/
+permalink: /usecases/variants-interactions/
 ---
 
 <div class="container">
