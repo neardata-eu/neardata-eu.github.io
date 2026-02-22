@@ -41,14 +41,14 @@ permalink: /usecases/pathogen-genomics/
 
     <h3>How NEARDATA will address the challenge</h3>
     <p class="text-justify">NEARDATA addresses these challenges through a two-pronged strategy.</p>
-    <p class="text-justify">On the architectural side, we integrate Pravega (streaming storage), Nexus (tiered data management), and FaaStream (serverless orchestration) to create a unified dual-access architecture. We developed specialised connectors, including the Nexus FASTQGzip streamlet, which compresses FASTQ data while preserving parallel access. This enables efficient ingestion, reduced storage footprint, and compatibility with both stream-based and object-based workflows.</p>
+    <p class="text-justify">On the architectural side, we integrate Pravega (streaming storage) and Nexus (tiered data management) to create a unified dual-access architecture. FaaStream (serverless orchestration) can also be optionally used. We developed specialised connectors, including the Nexus FASTQGzip streamlet, which compresses FASTQ data while preserving parallel access. This enables efficient ingestion, reduced storage footprint, and compatibility with both stream-based and object-based workflows.</p>
     <p class="text-justify">On the analytical side, we introduced and fully integrated KPop, a novel embedding-based comparative genomics method. Unlike sketch-based approaches, KPop computes the complete k-mer spectrum of genomes and transforms it into compact vector embeddings. These embeddings enable accurate pathogen classification, rapid nearest-neighbour retrieval, and direct integration with AI/ML pipelines.</p>
     <p class="text-justify">This combined architectural and methodological innovation reduces operational complexity, increases throughput, and prepares genomic data for scalable AI-driven analytics.</p>
 
     <h3>How it will work</h3>
     <p class="text-justify">Incoming FASTQ data streams are ingested via Pravega and processed through Nexus streamlets. The FASTQGzip streamlet applies windowed compression while annotating offsets, enabling efficient parallel batch access without disrupting real-time streaming reads.</p>
 
-    <p class="text-justify">Genomic analytics workloads—such as KPop—are executed using FaaStream, a serverless framework that orchestrates AWS Lambda functions. This allows dynamic scaling according to workload intensity. Stream-native primitives (e.g., shuffle and stateful coordination) support high-throughput distributed processing.</p>
+    <p class="text-justify">We also tested execution of genomic analytics workloads, such as KPop, using FaaStream, a serverless framework that orchestrates AWS Lambda functions. This allows dynamic scaling according to workload intensity. Stream-native primitives (e.g., shuffle and stateful coordination) support high-throughput distributed processing.</p>
 
     <p class="text-justify">KPop generates dataset-specific vector embeddings that can be used for classification, clustering, relatedness analysis, and AI-based downstream applications. Because the architecture supports both streaming and object interfaces, results can seamlessly feed legacy genomics pipelines or modern cloud-native AI frameworks.</p>
 
@@ -59,7 +59,7 @@ permalink: /usecases/pathogen-genomics/
 
     <p class="text-justify">KPop demonstrated near-perfect classification performance, achieving over 98% accuracy on large real-world datasets, including one comprising more than 1.28 million SARS-CoV-2 genomes. Retrieval of related sequences from million-scale databases can be performed in seconds.</p>
 
-    <p class="text-justify">The Nexus FASTQGzip streamlet achieved a 3.8× compression ratio while preserving parallel access, offering a strong trade-off between data reduction and processing speed compared to standard FASTQ or monolithic GZip files. The serverless FaaStream implementation of KPop achieved execution times comparable to Apache Flink while reducing end-to-end cost by up to 65% when cluster provisioning time is considered. </p>
+    <p class="text-justify">The Nexus FASTQGzip streamlet achieved a 3.8× compression ratio while preserving parallel access, offering a strong trade-off between data reduction and processing speed compared to standard FASTQ or monolithic GZip files. The serverless FaaStream implementation of KPop achieved execution times comparable to Apache Flink while reducing end-to-end cost by up to 65% when cluster provisioning time is considered.  </p>
 
     <p class="text-justify">Although these results were demonstrated on a single, well-defined workflow, they validate proof-of-principle feasibility of AI-based, serverless, stream-based genomics analytics for national-scale pathogen surveillance. NEARDATA’s architecture can therefore be used to support the implementation of resilient, scalable, and cost-efficient genomics services for federated public health genomics.</p>
     
