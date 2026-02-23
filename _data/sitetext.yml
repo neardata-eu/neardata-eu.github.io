@@ -936,7 +936,7 @@ final_review:
       video: "https://www.youtube.com/watch?v=mdHlvXWBmbg"
       slides: "#"
 
-    promotional_videos:
+  promotional_videos:
     - title: NEARDATA Project - Extreme Near-Data Processing Platform
       video: "https://www.youtube.com/watch?v=2H08tjaxG8k"
       slides: "#"
