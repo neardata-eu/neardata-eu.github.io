@@ -159,6 +159,26 @@ __Chair__: Pedro García López (Coordinator)
 </div>
 
 
+#### Promotional Videos
+<div class="col-lg-12 text-center mt-4 mb-4">
+	<table class="table table-striped" style="text-align: left">
+		<thead>
+			<tr>
+				<th>Title</th>
+				<th>Video</th>
+			</tr>
+		</thead>
+		<tbody>
+			{% for promotional_video in site.data.sitetext.final_review.promotional_videos %}
+			<tr>
+				<td>{{ promotional_video.title }}</td>
+				<td><a href="{{ promotional_video.video }}"><i class="fas fa-external-link-alt"></i></a></td>
+			</tr>
+			{% endfor %}
+		</tbody>
+	</table>
+</div>
+
 #### Videos
 <div class="col-lg-12 text-center mt-4 mb-4">
 	<table class="table table-striped" style="text-align: left">
