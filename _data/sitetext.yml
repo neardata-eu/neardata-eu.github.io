@@ -908,24 +908,6 @@ final_review:
       kpi: "#"
 
   videos:
-    - title: NEARDATA Project - Extreme Near-Data Processing Platform
-      video: "https://www.youtube.com/watch?v=2H08tjaxG8k"
-      slides: "#"
-    - title: "NEARDATA Project - Use Case: Transcriptomics"
-      video: "https://www.youtube.com/watch?v=WL9qs1feKgU"
-      slides: "#"
-    - title: "NEARDATA Project - Use Case: Variants Interactions"
-      video: "https://www.youtube.com/watch?v=2Dze4TlSJNM"
-      slides: "#"
-    - title: "NEARDATA Project - Use Case: Genomics Epistasis"
-      video: "https://www.youtube.com/watch?v=bQfzeTAXsFU"
-      slides: "#"
-    - title: "NEARDATA Project - Use Case: Metabolomics"
-      video: "https://www.youtube.com/watch?v=lH7EuAj5M2I"
-      slides: "#"
-    - title: "NEARDATA Project - Use Case: Surgery"
-      video: "https://www.youtube.com/watch?v=_qlivJXrH8c"
-      slides: "#"
     - title: METASPACE demo
       video: "https://drive.google.com/file/d/1u6Lnbma60lpQ0iweUBP4l9ab9iHoFWxl/view?usp=drive_link"
       slides: "#"
@@ -952,6 +934,26 @@ final_review:
       slides: "#"
     - title: "From Zero to Cloud in 5 Minutes: Your First Python Script on PyRun"
       video: "https://www.youtube.com/watch?v=mdHlvXWBmbg"
+      slides: "#"
+
+    promotional_videos:
+    - title: NEARDATA Project - Extreme Near-Data Processing Platform
+      video: "https://www.youtube.com/watch?v=2H08tjaxG8k"
+      slides: "#"
+    - title: "NEARDATA Project - Use Case: Transcriptomics"
+      video: "https://www.youtube.com/watch?v=WL9qs1feKgU"
+      slides: "#"
+    - title: "NEARDATA Project - Use Case: Variants Interactions"
+      video: "https://www.youtube.com/watch?v=2Dze4TlSJNM"
+      slides: "#"
+    - title: "NEARDATA Project - Use Case: Genomics Epistasis"
+      video: "https://www.youtube.com/watch?v=bQfzeTAXsFU"
+      slides: "#"
+    - title: "NEARDATA Project - Use Case: Metabolomics"
+      video: "https://www.youtube.com/watch?v=lH7EuAj5M2I"
+      slides: "#"
+    - title: "NEARDATA Project - Use Case: Surgery"
+      video: "https://www.youtube.com/watch?v=_qlivJXrH8c"
       slides: "#"
       
   summaries:
