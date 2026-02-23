@@ -441,7 +441,7 @@ publications:
     type: "Article in journal"
     year: "2025" 
     authors: "Andrés Benavides, Aaron Call, Pietro Morichetti, Daniel Barcelona-Pons, Ramon Nou"
-    doi: ""
+    doi: "10.2139/ssrn.6174512"
   - title: "Exhaustive Variant Interaction Analysis Using Multifactor Dimensionality Reduction"
     url: "https://pubmed.ncbi.nlm.nih.gov/37886566/"
     journal-conf: "Appl. Sci. 2024"
