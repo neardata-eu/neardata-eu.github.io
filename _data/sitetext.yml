@@ -943,7 +943,7 @@ final_review:
     - title: "NEARDATA Project - Use Case: Transcriptomics"
       video: "https://www.youtube.com/watch?v=WL9qs1feKgU"
       slides: "#"
-    - title: "NEARDATA Project - Use Case: Variants Interactions"
+    - title: "NEARDATA Project - Use Case: Pathogen genomics"
       video: "https://www.youtube.com/watch?v=2Dze4TlSJNM"
       slides: "#"
     - title: "NEARDATA Project - Use Case: Genomics Epistasis"
