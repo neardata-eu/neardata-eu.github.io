@@ -38,10 +38,6 @@ permalink: /software-results/
 				<td><a href="https://gitlab.bsc.es/datacentric-computing/lithops-hpc-examples">https://gitlab.bsc.es/datacentric-computing/lithops-hpc-examples</a></td>
 			</tr>
 			<tr>
-				<td>Data shuffle connector</td>
-				<td><a href="https://github.com/danielBCN/dataplug/tree/filesystem">https://github.com/danielBCN/dataplug/tree/filesystem</a></td>
-			</tr>
-			<tr>
 				<td>Auto-scaling connector</td>
 				<td><a href="https://gitlab.bsc.es/datacentric-computing/lithops_telemetry_forecasting">https://gitlab.bsc.es/datacentric-computing/lithops_telemetry_forecasting</a></td>
 			</tr>
@@ -78,10 +74,6 @@ permalink: /software-results/
 				<td><a href="https://github.com/metaspace2020">https://github.com/metaspace2020</a></td>
 			</tr>
 			<tr>
-				<td>Lithops-METASPACE</td>
-				<td><a href="https://github.com/metaspace2020/Lithops-METASPACE">https://github.com/metaspace2020/Lithops-METASPACE</a></td>
-			</tr>
-			<tr>
 				<td>DataPlug</td>
 				<td><a href="https://github.com/CLOUDLAB-URV/dataplug/">https://github.com/CLOUDLAB-URV/dataplug/</a></td>
 			</tr>
@@ -92,6 +84,18 @@ permalink: /software-results/
 			<tr>
 				<td>OffSample</td>
 				<td><a href="https://github.com/metaspace2020/offsample">https://github.com/metaspace2020/offsample</a></td>
+			</tr>
+			<tr>
+				<td>Serverless-vdb</td>
+				<td><a href="https://github.com/neardata-eu/serverless-vdb">https://github.com/neardata-eu/serverless-vdb</a></td>
+			</tr>
+			<tr>
+				<td>Serverless-vdb-experiments</td>
+				<td><a href="https://github.com/neardata-eu/serverless-vdb-experiments">https://github.com/neardata-eu/serverless-vdb-experiments</a></td>
+			</tr>
+			<tr>
+				<td>Video-stream-indexing</td>
+				<td><a href="https://github.com/neardata-eu/video-stream-indexing">https://github.com/neardata-eu/video-stream-indexing</a></td>
 			</tr>
 		</tbody>
 	</table>
