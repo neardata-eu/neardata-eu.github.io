@@ -111,31 +111,6 @@ __Chair__: Pedro García López (Coordinator)
 	</table>
 </div>
 
-<!--
-#### Summary reports
-<div class="col-lg-12 text-center mt-4 mb-4">
-	<table class="table table-striped" style="text-align: left">
-		<thead>
-			<tr>
-				<th>Partner short name</th>
-				<th>Partner</th>
-				<th>PDF</th>
-			</tr>
-		</thead>
-		<tbody>
-			{% for summary in site.data.sitetext.final_review.summaries %}
-			<tr>
-				<td>{{ summary.shortname }}</td>
-				<td>{{ summary.partner }}</td>
-				<td><a href="{{ summary.link }}"><i class="fas fa-external-link-alt"></i></a></td>
-			</tr>
-			{% endfor %}
-		</tbody>
-	</table>
-</div> -->
-
-
-
 #### Software results
 <div class="col-lg-12 text-center mt-4 mb-4">
 	<table class="table table-striped" style="text-align: left">
@@ -158,6 +133,37 @@ __Chair__: Pedro García López (Coordinator)
 	</table>
 </div>
 
+#### Generated Datasets
+<div class="col-lg-12 text-center mt-4 mb-4">
+	<table class="table table-striped" style="text-align: left">
+		<thead>
+			<tr>
+				<th>Name</th>
+				<th>Description</th>
+				<th>Volume</th>
+				<th>Access</th>
+				<th>DOI / Link</th>
+			</tr>
+		</thead>
+		<tbody>
+			{% for dataset in site.data.sitetext.datasets.list %}
+			<tr>
+				<td>{{ dataset.name }}</td>
+				<td>{{ dataset.description }}</td>
+				<td>{{ dataset.volume }}</td>
+				<td>{{ dataset.access }}</td>
+				<td>
+                    {% if dataset.doi != "NA" %}
+                    <a href="{{ dataset.doi }}" target="_blank"><i class="fas fa-external-link-alt"></i></a>
+                    {% else %}
+                    NA
+                    {% endif %}
+                </td>
+			</tr>
+			{% endfor %}
+		</tbody>
+	</table>
+</div>
 
 #### Promotional Videos
 <div class="col-lg-12 text-center mt-4 mb-4">

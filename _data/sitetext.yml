@@ -1047,3 +1047,17 @@ footer:
   flag:
     text: |
       **NEARDATA** has received funding from the European Union's Horizon research and innovation programme under grant agreement No 101092644.
+
+datasets:
+  title: "Generated Datasets"
+  list:
+    - name: "Synthetic genotype and phenotype"
+      description: "Simulated genotype and phenotype for thousands of European individuals using EpiGEN"
+      access: "NA"
+      volume: "237M"
+      doi: "https://doi.org/10.1093/bioinformatics/btaa245"
+    - name: "Surgical Training Phantom Data (currently not public)"
+      description: "Continuously recorded phantom data from the Experimental Operating Room at the NCT"
+      access: "Data will be made accessible to project partners up request"
+      volume: "Increasing (currently ~ 20GB)"
+      doi: "NA"
