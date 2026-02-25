@@ -911,7 +911,7 @@ final_review:
     - title: METASPACE demo
       video: "https://drive.google.com/file/d/1u6Lnbma60lpQ0iweUBP4l9ab9iHoFWxl/view?usp=drive_link"
       slides: "#"
-    - title: Pravega streamsense demo
+    - title: Streamsense demo
       video: "https://drive.google.com/file/d/14nqqCeEtz2g4LpneNUNRzhfOkcGFpcxh/view?usp=drive_link"
       slides: "#"
     - title: FaaStream demo
