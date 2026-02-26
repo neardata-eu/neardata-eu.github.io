@@ -872,6 +872,9 @@ final_review:
     - title: Deliverable 6.2
       subtitle: Communication and standardization report
       file: ../assets/deliverables/NEARDATA_D6.2_Public.pdf
+    - title: Deliverable 6.3
+      subtitle: Final dissemination, exploitation, and standardization report
+      file: ../assets/deliverables/NEARDATA_D6_3_Confidential.pdf
   
   slides:
     - title: Project Overview
